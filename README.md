@@ -17,7 +17,7 @@ The three states chosen are as listed:
 
 -New York
 
--Colorado
+-Tennessee
 
 # Data Collection and Observations
 
@@ -87,14 +87,13 @@ This image below shows an increase of the covid cases through 2020 to 2023 for C
 
 ![Alt text](images/March_20t023_cases.png)
 
-The link to the leaflet interactive visualization is listed in the deployment section on the Project GitHub page:
+
 
 
 # Interacting with the Map
 
 
-To interact with the map just click the county you are interested in seeing the total number of documented covid cases at the time is March 23rd, 2023. This was the last day the data was recorded. This works for our project since Spring Break typicaly occurs in the middle of March.
-
+To interact with the map just hover over the county you are interested in seeing the total number of documented covid cases at the time is March 23rd, 2023. This was the last day the data was recorded. This works for our project since Spring Break typicaly occurs in the middle of March.
 
 
 
@@ -108,16 +107,9 @@ Here is a link that shows the US FIPS codes:
 
 https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt#:~:text=FIPS%20codes%20are%20numbers%20which,to%20which%20the%20county%20belongs.
 
-This is where we retrieved the lat and lng data:
 
-https://gist.github.com/russellsamora/12be4f9f574e92413ea3f92ce1bc58e6
-
-
-This is the county boundaries coordinates data:
+This is where we retrieved the GeoJSON data for our interactive plotly map:
 
 https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json
 
 
-A majority of the Index and the choropleth.js was used from:
-
- © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
