@@ -1,0 +1,3258 @@
+name,fips,cases
+South Carolina,45001.0,7834.0
+Louisiana,22001.0,19022.0
+Virginia,51001.0,9151.0
+Idaho,16001.0,160792.0
+Iowa,19001.0,1809.0
+Kentucky,21001.0,7900.0
+Missouri,29001.0,6741.0
+Oklahoma,40001.0,9887.0
+Colorado,8001.0,166901.0
+Idaho,16003.0,825.0
+Illinois,17001.0,28086.0
+Indiana,18001.0,8764.0
+Iowa,19003.0,944.0
+Mississippi,28001.0,8630.0
+Nebraska,31001.0,7877.0
+North Dakota,38001.0,691.0
+Ohio,39001.0,8940.0
+Pennsylvania,42001.0,31849.0
+Washington,53001.0,5667.0
+Wisconsin,55001.0,5880.0
+Vermont,50001.0,7054.0
+Puerto Rico,72001.0,6980.0
+Puerto Rico,72003.0,13070.0
+Puerto Rico,72005.0,16879.0
+Puerto Rico,72007.0,8589.0
+Puerto Rico,72009.0,8625.0
+South Carolina,45003.0,52541.0
+Minnesota,27001.0,3730.0
+Florida,12001.0,89614.0
+North Carolina,37001.0,62085.0
+California,6001.0,404269.0
+Colorado,8003.0,5981.0
+New York,36001.0,79625.0
+Wyoming,56001.0,11610.0
+Virginia,51003.0,25512.0
+Michigan,26001.0,1953.0
+Mississippi,28003.0,12840.0
+Alaska,2013.0,1328.0
+Alaska,2016.0,1993.0
+Illinois,17003.0,1578.0
+North Carolina,37003.0,12798.0
+Virginia,51510.0,45665.0
+Oklahoma,40003.0,1895.0
+Michigan,26003.0,2318.0
+Iowa,19005.0,3265.0
+Michigan,26005.0,32312.0
+Maryland,24001.0,21813.0
+New York,36003.0,10947.0
+North Carolina,37005.0,3774.0
+Virginia,51005.0,4576.0
+Pennsylvania,42003.0,341178.0
+Indiana,18003.0,124615.0
+Kansas,20001.0,5145.0
+Kentucky,21003.0,8558.0
+Louisiana,22003.0,9114.0
+Ohio,39003.0,34177.0
+South Carolina,45005.0,2433.0
+Michigan,26007.0,6696.0
+California,6003.0,143.0
+California,6005.0,11583.0
+Virginia,51007.0,3593.0
+Virginia,51009.0,9665.0
+Mississippi,28005.0,3888.0
+Puerto Rico,72011.0,8610.0
+Alaska,2020.0,123977.0
+Kansas,20003.0,2603.0
+Kentucky,21005.0,8526.0
+South Carolina,45007.0,70338.0
+Tennessee,47001.0,28030.0
+Texas,48001.0,11283.0
+Missouri,29003.0,5676.0
+Texas,48003.0,4477.0
+Maine,23001.0,28629.0
+Texas,48005.0,13510.0
+Maryland,24003.0,120236.0
+Minnesota,27003.0,119732.0
+North Carolina,37007.0,8493.0
+Nebraska,31003.0,1308.0
+Michigan,26009.0,5307.0
+Arizona,4001.0,36671.0
+Iowa,19007.0,3442.0
+Georgia,13001.0,5277.0
+Virginia,51011.0,5038.0
+Texas,48007.0,5734.0
+Colorado,8005.0,197747.0
+Texas,48009.0,2622.0
+Colorado,8007.0,3540.0
+Puerto Rico,72013.0,30543.0
+Michigan,26011.0,3934.0
+Arkansas,5001.0,7013.0
+Virginia,51013.0,66881.0
+Pennsylvania,42005.0,18453.0
+Texas,48011.0,649.0
+Maine,23003.0,18454.0
+Puerto Rico,72015.0,5873.0
+Nebraska,31005.0,34.0
+Louisiana,22005.0,45606.0
+North Carolina,37009.0,7652.0
+Ohio,39005.0,14984.0
+Wisconsin,55003.0,4181.0
+Arkansas,5003.0,6255.0
+Ohio,39007.0,26084.0
+Washington,53003.0,5648.0
+Louisiana,22007.0,6828.0
+Texas,48013.0,15357.0
+Kansas,20005.0,5076.0
+Missouri,29005.0,1818.0
+Ohio,39009.0,20068.0
+Georgia,13003.0,2449.0
+New Jersey,34001.0,92157.0
+Oklahoma,40005.0,4705.0
+Mississippi,28007.0,6839.0
+Missouri,29007.0,6887.0
+Iowa,19009.0,1314.0
+Ohio,39011.0,14371.0
+Virginia,51015.0,24589.0
+South Dakota,46003.0,902.0
+Texas,48015.0,7182.0
+Alabama,1001.0,19812.0
+North Carolina,37011.0,5590.0
+Louisiana,22009.0,14456.0
+Colorado,8009.0,1031.0
+Georgia,13005.0,4096.0
+Texas,48017.0,1727.0
+Florida,12003.0,10733.0
+Georgia,13007.0,656.0
+Oregon,41001.0,3844.0
+Alabama,1003.0,70040.0
+Georgia,13009.0,11237.0
+Kentucky,21007.0,1758.0
+Maryland,24005.0,173005.0
+Maryland,24510.0,150049.0
+South Carolina,45009.0,4297.0
+Texas,48019.0,4196.0
+Georgia,13011.0,4635.0
+Nebraska,31007.0,104.0
+Idaho,16005.0,24563.0
+Michigan,26013.0,2796.0
+Kansas,20007.0,1234.0
+Alabama,1005.0,7509.0
+West Virginia,54001.0,5987.0
+Puerto Rico,72017.0,7829.0
+North Dakota,38003.0,3657.0
+Massachusetts,25001.0,49849.0
+South Carolina,45011.0,6811.0
+Puerto Rico,72019.0,9997.0
+Kentucky,21009.0,17425.0
+Wisconsin,55005.0,16180.0
+Georgia,13013.0,26123.0
+Michigan,26015.0,17039.0
+Missouri,29009.0,7985.0
+Indiana,18005.0,26936.0
+Kansas,20009.0,7720.0
+Missouri,29011.0,3383.0
+Georgia,13015.0,35602.0
+Texas,48021.0,26057.0
+Missouri,29013.0,4462.0
+Kentucky,21011.0,4705.0
+Virginia,51017.0,1083.0
+Arkansas,5005.0,10739.0
+Florida,12005.0,55432.0
+Michigan,26017.0,31859.0
+Puerto Rico,72021.0,69248.0
+Wisconsin,55007.0,4393.0
+Texas,48023.0,907.0
+South Dakota,46005.0,5613.0
+Idaho,16007.0,1176.0
+North Carolina,37013.0,16168.0
+South Carolina,45013.0,54353.0
+Louisiana,22011.0,11237.0
+Oklahoma,40007.0,1187.0
+Pennsylvania,42007.0,49242.0
+Utah,49001.0,1813.0
+Montana,30001.0,2478.0
+Minnesota,27005.0,10555.0
+Oklahoma,40009.0,7336.0
+Pennsylvania,42009.0,12862.0
+Tennessee,47003.0,18249.0
+Virginia,51019.0,22259.0
+Texas,48025.0,10417.0
+New Hampshire,33001.0,17626.0
+Kentucky,21013.0,11191.0
+Texas,48027.0,89470.0
+Ohio,39013.0,19307.0
+Minnesota,27007.0,14444.0
+Georgia,13017.0,5028.0
+Idaho,16009.0,2810.0
+South Dakota,46007.0,949.0
+Vermont,50003.0,12503.0
+North Dakota,38005.0,2295.0
+Colorado,8011.0,3010.0
+Arkansas,5007.0,77493.0
+Indiana,18007.0,2989.0
+Iowa,19011.0,7269.0
+Minnesota,27009.0,17117.0
+Mississippi,28009.0,2826.0
+Missouri,29015.0,5517.0
+Oregon,41003.0,22315.0
+Tennessee,47005.0,5740.0
+Washington,53005.0,62327.0
+Michigan,26019.0,4153.0
+New Jersey,34003.0,327464.0
+South Carolina,45015.0,66525.0
+West Virginia,54003.0,45314.0
+Pennsylvania,42011.0,127287.0
+Massachusetts,25003.0,35610.0
+New Mexico,35001.0,198099.0
+Georgia,13019.0,5892.0
+Michigan,26021.0,42247.0
+North Carolina,37015.0,5488.0
+Alaska,2050.0,13148.0
+Texas,48029.0,703566.0
+Alabama,1007.0,8105.0
+Georgia,13021.0,45627.0
+Louisiana,22013.0,5030.0
+Montana,30003.0,5874.0
+Wyoming,56003.0,3097.0
+Minnesota,27011.0,1786.0
+North Dakota,38007.0,170.0
+Idaho,16011.0,11273.0
+Iowa,19013.0,39169.0
+Indiana,18009.0,3709.0
+North Carolina,37017.0,12145.0
+Idaho,16013.0,7337.0
+Montana,30005.0,2596.0
+Nebraska,31009.0,76.0
+Oklahoma,40011.0,2945.0
+Pennsylvania,42013.0,35302.0
+Texas,48031.0,3265.0
+Virginia,51021.0,2409.0
+Georgia,13023.0,3956.0
+Tennessee,47007.0,5436.0
+Alabama,1009.0,18747.0
+Tennessee,47009.0,49586.0
+Minnesota,27013.0,21485.0
+Idaho,16015.0,1301.0
+Mississippi,28011.0,11666.0
+Missouri,29017.0,3277.0
+South Dakota,46009.0,2576.0
+Illinois,17005.0,5318.0
+Idaho,16017.0,10312.0
+Idaho,16019.0,35755.0
+Arkansas,5009.0,11304.0
+Illinois,17007.0,17647.0
+Indiana,18011.0,17408.0
+Iowa,19015.0,6565.0
+Kentucky,21015.0,47584.0
+Missouri,29019.0,55757.0
+Nebraska,31011.0,1298.0
+West Virginia,54005.0,8780.0
+Texas,48033.0,116.0
+Texas,48035.0,4638.0
+Louisiana,22015.0,51511.0
+Virginia,51023.0,10015.0
+North Dakota,38009.0,1895.0
+Colorado,8013.0,91691.0
+Idaho,16021.0,2426.0
+Kansas,20011.0,5631.0
+Kentucky,21017.0,7836.0
+Texas,48037.0,23998.0
+North Dakota,38011.0,937.0
+Nebraska,31013.0,2535.0
+Utah,49003.0,16101.0
+Kentucky,21019.0,23034.0
+Nebraska,31015.0,493.0
+Kentucky,21021.0,11479.0
+Kentucky,21023.0,2768.0
+Florida,12007.0,9233.0
+Pennsylvania,42015.0,20866.0
+Arkansas,5011.0,3597.0
+Tennessee,47011.0,39295.0
+Michigan,26023.0,14416.0
+Georgia,13025.0,4699.0
+West Virginia,54007.0,5011.0
+Texas,48039.0,118986.0
+Texas,48041.0,77764.0
+Kentucky,21025.0,5408.0
+Kentucky,21027.0,6714.0
+Iowa,19017.0,6408.0
+Florida,12009.0,174846.0
+Texas,48043.0,1519.0
+Texas,48045.0,566.0
+Massachusetts,25005.0,182647.0
+Rhode Island,44001.0,17864.0
+Alaska,2997.0,1233.0
+Virginia,51520.0,6230.0
+Montana,30007.0,1549.0
+West Virginia,54009.0,6336.0
+South Dakota,46011.0,9541.0
+Georgia,13027.0,4079.0
+Texas,48047.0,2188.0
+New York,36007.0,59619.0
+Colorado,8014.0,18456.0
+Florida,12011.0,773219.0
+Illinois,17009.0,2879.0
+Indiana,18013.0,2987.0
+Kansas,20013.0,3165.0
+Minnesota,27015.0,8047.0
+Nebraska,31017.0,662.0
+Ohio,39015.0,14205.0
+South Dakota,46013.0,12245.0
+Texas,48049.0,15881.0
+Wisconsin,55009.0,103453.0
+South Dakota,46015.0,1690.0
+North Carolina,37019.0,41250.0
+Virginia,51025.0,4099.0
+Georgia,13029.0,11257.0
+Oklahoma,40013.0,17454.0
+Iowa,19019.0,5566.0
+Missouri,29021.0,29792.0
+Virginia,51027.0,6201.0
+Virginia,51029.0,4993.0
+Pennsylvania,42017.0,156865.0
+Iowa,19021.0,7000.0
+Virginia,51530.0,2339.0
+Nebraska,31019.0,14399.0
+South Dakota,46017.0,694.0
+Wisconsin,55011.0,4204.0
+Kentucky,21029.0,29304.0
+Georgia,13031.0,17920.0
+Alabama,1011.0,3042.0
+North Carolina,37021.0,71238.0
+Illinois,17011.0,10328.0
+Georgia,13033.0,6324.0
+North Carolina,37023.0,32089.0
+North Dakota,38013.0,494.0
+North Dakota,38015.0,41245.0
+Texas,48051.0,5654.0
+New Jersey,34005.0,142308.0
+Texas,48053.0,13215.0
+Wisconsin,55013.0,5164.0
+Nebraska,31021.0,1558.0
+Alabama,1013.0,6568.0
+Iowa,19023.0,3839.0
+Kansas,20015.0,22625.0
+Kentucky,21031.0,4783.0
+Missouri,29023.0,12471.0
+Nebraska,31023.0,2323.0
+Ohio,39017.0,117019.0
+Pennsylvania,42019.0,55435.0
+California,6007.0,52107.0
+Idaho,16023.0,555.0
+South Dakota,46019.0,3264.0
+Georgia,13035.0,7693.0
+North Carolina,37025.0,72498.0
+West Virginia,54011.0,34174.0
+Puerto Rico,72023.0,14666.0
+Utah,49005.0,41785.0
+Louisiana,22017.0,88991.0
+Oklahoma,40015.0,10207.0
+Puerto Rico,72025.0,45707.0
+California,6009.0,9681.0
+Louisiana,22019.0,68537.0
+Kentucky,21033.0,5103.0
+Louisiana,22021.0,4613.0
+Missouri,29025.0,2080.0
+North Carolina,37027.0,30473.0
+Texas,48055.0,17104.0
+Vermont,50005.0,6555.0
+Alabama,1015.0,41502.0
+Arkansas,5013.0,1197.0
+Florida,12013.0,4940.0
+Georgia,13037.0,1591.0
+Illinois,17013.0,1925.0
+Iowa,19025.0,3083.0
+Michigan,26025.0,42781.0
+Mississippi,28013.0,5598.0
+South Carolina,45017.0,3621.0
+Texas,48057.0,7003.0
+West Virginia,54013.0,2271.0
+Texas,48059.0,3529.0
+Missouri,29027.0,14465.0
+Kentucky,21035.0,11846.0
+Wisconsin,55015.0,16950.0
+Maryland,24009.0,14832.0
+Idaho,16025.0,182.0
+Pennsylvania,42021.0,43742.0
+Georgia,13039.0,13683.0
+Missouri,29029.0,10909.0
+New Jersey,34007.0,170014.0
+North Carolina,37029.0,2215.0
+Louisiana,22023.0,1394.0
+Pennsylvania,42023.0,1045.0
+Texas,48061.0,131084.0
+Texas,48063.0,3562.0
+Kentucky,21037.0,30368.0
+South Dakota,46021.0,307.0
+Tennessee,47013.0,16216.0
+Virginia,51031.0,17752.0
+Wyoming,56005.0,13964.0
+Puerto Rico,72027.0,11760.0
+Oklahoma,40017.0,48229.0
+Georgia,13043.0,2597.0
+Tennessee,47015.0,5224.0
+Puerto Rico,72029.0,13479.0
+Idaho,16027.0,70913.0
+Missouri,29031.0,23506.0
+New Jersey,34009.0,30603.0
+Montana,30009.0,2476.0
+Pennsylvania,42025.0,20293.0
+Utah,49007.0,6074.0
+Wyoming,56007.0,5036.0
+Idaho,16029.0,1667.0
+Kentucky,21039.0,1363.0
+Minnesota,27017.0,11498.0
+Puerto Rico,72031.0,52989.0
+Maryland,24011.0,7356.0
+Virginia,51033.0,9062.0
+Arkansas,5015.0,7293.0
+Georgia,13045.0,28559.0
+Illinois,17015.0,5041.0
+Indiana,18015.0,4934.0
+Iowa,19027.0,5691.0
+Kentucky,21041.0,4340.0
+Maryland,24013.0,28268.0
+Mississippi,28015.0,3090.0
+Missouri,29033.0,2696.0
+New Hampshire,33003.0,12343.0
+Ohio,39019.0,6373.0
+Tennessee,47017.0,11725.0
+Virginia,51035.0,9813.0
+Texas,48065.0,1547.0
+Nevada,32510.0,17491.0
+Kentucky,21043.0,12095.0
+Missouri,29035.0,1764.0
+Montana,30011.0,291.0
+Oklahoma,40019.0,19490.0
+Tennessee,47019.0,21706.0
+North Carolina,37031.0,18562.0
+Minnesota,27019.0,32130.0
+Montana,30013.0,30145.0
+Kentucky,21045.0,5423.0
+Illinois,17017.0,5635.0
+Indiana,18017.0,14095.0
+Iowa,19029.0,3344.0
+Michigan,26027.0,13171.0
+Minnesota,27021.0,8685.0
+Missouri,29037.0,30271.0
+Nebraska,31025.0,7330.0
+North Dakota,38017.0,71476.0
+Texas,48067.0,8918.0
+Idaho,16031.0,5624.0
+Texas,48069.0,2711.0
+North Carolina,37033.0,6659.0
+Louisiana,22025.0,3151.0
+Puerto Rico,72033.0,7699.0
+North Carolina,37035.0,60825.0
+Georgia,13047.0,17116.0
+New Mexico,35003.0,530.0
+New York,36009.0,19476.0
+North Dakota,38019.0,981.0
+Puerto Rico,72035.0,15119.0
+New York,36011.0,20724.0
+Maryland,24015.0,20444.0
+Iowa,19031.0,5044.0
+Missouri,29039.0,3764.0
+Nebraska,31027.0,1779.0
+Puerto Rico,72037.0,3404.0
+Pennsylvania,42027.0,44404.0
+Iowa,19033.0,12803.0
+Colorado,8015.0,5677.0
+Alabama,1017.0,10890.0
+Texas,48071.0,13159.0
+Illinois,17019.0,86277.0
+Ohio,39021.0,10834.0
+Missouri,29041.0,1998.0
+Maryland,24017.0,38829.0
+Virginia,51036.0,1724.0
+South Dakota,46023.0,3774.0
+South Carolina,45019.0,139537.0
+Michigan,26029.0,5890.0
+Florida,12015.0,48782.0
+Virginia,51037.0,3444.0
+Virginia,51540.0,12494.0
+Georgia,13049.0,3494.0
+Kansas,20017.0,798.0
+Nebraska,31029.0,891.0
+Georgia,13051.0,79936.0
+North Carolina,37037.0,18290.0
+Georgia,13053.0,7937.0
+Georgia,13055.0,7620.0
+Kansas,20019.0,1002.0
+New York,36013.0,29873.0
+New Mexico,35005.0,25115.0
+Tennessee,47021.0,13228.0
+Michigan,26031.0,5833.0
+Washington,53007.0,24268.0
+New York,36015.0,26919.0
+New York,36017.0,11963.0
+Alabama,1019.0,6772.0
+Georgia,13057.0,75977.0
+Iowa,19035.0,3596.0
+Kansas,20021.0,7467.0
+North Carolina,37039.0,8794.0
+Oklahoma,40021.0,17606.0
+South Carolina,45021.0,18560.0
+Texas,48073.0,9179.0
+Nebraska,31031.0,640.0
+Virginia,51550.0,64517.0
+New Hampshire,33005.0,19192.0
+Pennsylvania,42029.0,118209.0
+South Carolina,45023.0,12734.0
+Tennessee,47023.0,7184.0
+South Carolina,45025.0,14998.0
+Virginia,51041.0,100336.0
+Colorado,8017.0,393.0
+Kansas,20023.0,736.0
+Nebraska,31033.0,2411.0
+Iowa,19037.0,3169.0
+Mississippi,28017.0,7028.0
+Arkansas,5017.0,3125.0
+Texas,48075.0,3192.0
+Alabama,1021.0,13028.0
+Michigan,26033.0,13438.0
+Minnesota,27023.0,3835.0
+Wisconsin,55017.0,22295.0
+Minnesota,27025.0,17332.0
+Vermont,50007.0,40056.0
+Alabama,1023.0,2259.0
+Mississippi,28019.0,2910.0
+Oklahoma,40023.0,5118.0
+Montana,30015.0,1365.0
+North Carolina,37041.0,5306.0
+Illinois,17021.0,13073.0
+Kentucky,21047.0,20232.0
+Missouri,29043.0,25036.0
+Nevada,32001.0,7632.0
+Puerto Rico,72039.0,5526.0
+New Mexico,35006.0,10301.0
+Puerto Rico,72041.0,14596.0
+Oklahoma,40025.0,730.0
+Florida,12017.0,39071.0
+Oregon,41005.0,84627.0
+Louisiana,22027.0,4139.0
+Mississippi,28021.0,2574.0
+Tennessee,47025.0,11293.0
+Washington,53009.0,15891.0
+Michigan,26035.0,8224.0
+South Carolina,45027.0,10819.0
+Pennsylvania,42031.0,9958.0
+Arkansas,5019.0,6426.0
+Idaho,16033.0,118.0
+Illinois,17023.0,5958.0
+Indiana,18019.0,41423.0
+Kansas,20025.0,614.0
+Kentucky,21049.0,14589.0
+Missouri,29045.0,1924.0
+Nevada,32003.0,673021.0
+Ohio,39023.0,43809.0
+South Dakota,46025.0,982.0
+Washington,53011.0,112711.0
+Wisconsin,55019.0,9166.0
+Alabama,1025.0,8560.0
+Georgia,13059.0,35440.0
+Iowa,19039.0,2708.0
+Mississippi,28023.0,4896.0
+Virginia,51043.0,3525.0
+Oregon,41007.0,6400.0
+Alabama,1027.0,5179.0
+Arkansas,5021.0,5154.0
+Florida,12019.0,67274.0
+Georgia,13061.0,628.0
+Illinois,17025.0,5974.0
+Indiana,18021.0,8161.0
+Iowa,19041.0,4868.0
+Kansas,20027.0,2453.0
+Kentucky,21051.0,9752.0
+Minnesota,27027.0,23809.0
+Mississippi,28025.0,6233.0
+Missouri,29047.0,33646.0
+Nebraska,31035.0,1753.0
+North Carolina,37043.0,3495.0
+South Dakota,46027.0,3967.0
+Tennessee,47027.0,2663.0
+Texas,48077.0,2499.0
+West Virginia,54015.0,2728.0
+Georgia,13063.0,78157.0
+Iowa,19043.0,4057.0
+Colorado,8019.0,1936.0
+Pennsylvania,42033.0,24536.0
+Idaho,16035.0,2701.0
+Minnesota,27029.0,2550.0
+Alabama,1029.0,4437.0
+Arkansas,5023.0,8065.0
+Ohio,39025.0,65768.0
+Arkansas,5025.0,2684.0
+North Carolina,37045.0,36890.0
+Oklahoma,40027.0,100776.0
+Georgia,13065.0,2459.0
+Illinois,17027.0,14425.0
+Indiana,18023.0,10728.0
+Iowa,19045.0,13909.0
+Kentucky,21053.0,4808.0
+Michigan,26037.0,28272.0
+Missouri,29049.0,5759.0
+New York,36019.0,23051.0
+Ohio,39027.0,12866.0
+Pennsylvania,42035.0,11238.0
+Kansas,20029.0,2678.0
+Mississippi,28027.0,8231.0
+Oklahoma,40029.0,2098.0
+Puerto Rico,72043.0,12127.0
+Georgia,13067.0,217466.0
+Arizona,4003.0,39199.0
+Texas,48079.0,985.0
+Tennessee,47029.0,14917.0
+Arizona,4005.0,52984.0
+South Dakota,46029.0,10681.0
+Alabama,1031.0,17216.0
+Georgia,13069.0,11814.0
+Tennessee,47031.0,21110.0
+Kansas,20031.0,2836.0
+Texas,48081.0,1121.0
+Alabama,1033.0,21362.0
+Missouri,29051.0,24177.0
+Texas,48083.0,2035.0
+Illinois,17029.0,19027.0
+Nebraska,31037.0,2979.0
+New Mexico,35007.0,3082.0
+South Carolina,45029.0,11465.0
+Florida,12021.0,105399.0
+Texas,48085.0,279674.0
+Texas,48087.0,893.0
+Virginia,51570.0,6360.0
+Texas,48089.0,4611.0
+Georgia,13071.0,13687.0
+Arkansas,5027.0,6797.0
+Florida,12023.0,25712.0
+Georgia,13073.0,43383.0
+New York,36021.0,14105.0
+Oregon,41009.0,10194.0
+Pennsylvania,42037.0,19772.0
+Washington,53013.0,767.0
+Wisconsin,55021.0,19750.0
+Ohio,39029.0,29913.0
+North Carolina,37047.0,19276.0
+California,6011.0,5387.0
+Texas,48091.0,46709.0
+Kansas,20033.0,548.0
+Oklahoma,40031.0,39398.0
+Texas,48093.0,4161.0
+Puerto Rico,72045.0,6239.0
+Texas,48095.0,1333.0
+Louisiana,22029.0,6533.0
+Alabama,1035.0,3615.0
+Colorado,8021.0,2314.0
+California,6013.0,296901.0
+Wyoming,56009.0,3697.0
+Arkansas,5029.0,6618.0
+Georgia,13075.0,5736.0
+Illinois,17031.0,1541156.0
+Minnesota,27031.0,833.0
+Texas,48097.0,8397.0
+Missouri,29053.0,4802.0
+New Hampshire,33007.0,8362.0
+Oregon,41011.0,14989.0
+Alabama,1037.0,3782.0
+Mississippi,28029.0,9277.0
+Puerto Rico,72047.0,12710.0
+South Dakota,46031.0,1205.0
+New York,36023.0,13629.0
+Texas,48099.0,21365.0
+Ohio,39031.0,10122.0
+Colorado,8023.0,972.0
+Texas,48101.0,394.0
+Oklahoma,40033.0,1716.0
+Minnesota,27033.0,3822.0
+Alabama,1039.0,11823.0
+Mississippi,28031.0,8718.0
+Virginia,51580.0,1918.0
+Georgia,13077.0,41345.0
+Kansas,20035.0,12480.0
+Washington,53015.0,27445.0
+Oklahoma,40035.0,6042.0
+Virginia,51045.0,1451.0
+Arkansas,5031.0,47435.0
+Texas,48103.0,1670.0
+North Carolina,37049.0,32224.0
+Arkansas,5033.0,18667.0
+Georgia,13079.0,2240.0
+Illinois,17033.0,7945.0
+Indiana,18025.0,3110.0
+Iowa,19047.0,5155.0
+Kansas,20037.0,15233.0
+Michigan,26039.0,3213.0
+Missouri,29055.0,6613.0
+Ohio,39033.0,14278.0
+Pennsylvania,42039.0,25087.0
+Wisconsin,55023.0,5378.0
+Oklahoma,40037.0,22900.0
+Alabama,1041.0,4745.0
+Georgia,13081.0,5626.0
+Arkansas,5035.0,16717.0
+Kentucky,21055.0,2860.0
+Tennessee,47033.0,6581.0
+Texas,48105.0,1534.0
+Oregon,41013.0,7974.0
+Wyoming,56011.0,1580.0
+Texas,48107.0,2079.0
+Arkansas,5037.0,5761.0
+Minnesota,27035.0,19471.0
+Colorado,8025.0,3560.0
+Texas,48109.0,579.0
+Puerto Rico,72049.0,548.0
+Alabama,1043.0,31575.0
+Virginia,51047.0,14474.0
+Illinois,17035.0,4021.0
+Kentucky,21057.0,2782.0
+Maine,23005.0,66810.0
+New Jersey,34011.0,52987.0
+North Carolina,37051.0,116482.0
+Pennsylvania,42041.0,63221.0
+Tennessee,47035.0,19636.0
+Virginia,51049.0,1847.0
+Nebraska,31039.0,2055.0
+North Carolina,37053.0,6374.0
+New Mexico,35009.0,15448.0
+Oregon,41015.0,4696.0
+Colorado,8027.0,841.0
+Idaho,16037.0,708.0
+Montana,30017.0,3521.0
+Nebraska,31041.0,2403.0
+Oklahoma,40039.0,9825.0
+South Dakota,46033.0,2499.0
+Ohio,39035.0,352387.0
+Georgia,13083.0,3987.0
+Missouri,29057.0,1822.0
+Utah,49009.0,168.0
+Minnesota,27037.0,137568.0
+Nebraska,31043.0,8064.0
+Alabama,1045.0,16557.0
+Texas,48111.0,2067.0
+Alabama,1047.0,11050.0
+Arkansas,5039.0,2070.0
+Iowa,19049.0,26965.0
+Missouri,29059.0,4710.0
+Texas,48113.0,692240.0
+Wisconsin,55025.0,180316.0
+Montana,30019.0,486.0
+Virginia,51590.0,14797.0
+North Carolina,37055.0,10088.0
+Ohio,39037.0,15147.0
+South Carolina,45031.0,22391.0
+Pennsylvania,42043.0,72873.0
+North Carolina,37057.0,56403.0
+Tennessee,47037.0,236088.0
+North Carolina,37059.0,15014.0
+Indiana,18027.0,9081.0
+Kentucky,21059.0,39014.0
+Missouri,29061.0,2028.0
+Iowa,19051.0,1829.0
+Utah,49011.0,120332.0
+South Dakota,46035.0,7142.0
+Nebraska,31045.0,1515.0
+Georgia,13085.0,8428.0
+Montana,30021.0,2776.0
+Nebraska,31047.0,6041.0
+Texas,48115.0,3426.0
+South Dakota,46037.0,1521.0
+New Mexico,35011.0,762.0
+Louisiana,22031.0,9831.0
+Illinois,17039.0,5220.0
+Alabama,1049.0,22552.0
+Georgia,13089.0,193938.0
+Illinois,17037.0,32731.0
+Indiana,18033.0,13683.0
+Missouri,29063.0,2553.0
+Tennessee,47041.0,7795.0
+Florida,12027.0,11318.0
+Mississippi,28033.0,61672.0
+Texas,48123.0,5161.0
+Texas,48117.0,6233.0
+Indiana,18029.0,16277.0
+Georgia,13087.0,8653.0
+Indiana,18031.0,8596.0
+Iowa,19053.0,1852.0
+Kansas,20039.0,792.0
+Tennessee,47039.0,4582.0
+Montana,30023.0,3283.0
+Ohio,39039.0,12461.0
+California,6015.0,8429.0
+Indiana,18035.0,30273.0
+Iowa,19055.0,4802.0
+New York,36025.0,10263.0
+Ohio,39041.0,56366.0
+Oklahoma,40041.0,13717.0
+Pennsylvania,42045.0,142304.0
+Colorado,8029.0,7228.0
+Michigan,26041.0,12561.0
+Texas,48119.0,9915.0
+Alaska,2068.0,1794.0
+Missouri,29065.0,3979.0
+Texas,48121.0,268792.0
+Colorado,8031.0,225860.0
+Iowa,19057.0,11335.0
+Oregon,41017.0,61992.0
+Arkansas,5041.0,3659.0
+Nebraska,31049.0,363.0
+South Dakota,46039.0,1200.0
+Oklahoma,40043.0,1259.0
+South Dakota,46041.0,3476.0
+Texas,48125.0,504.0
+Virginia,51051.0,4900.0
+North Dakota,38021.0,1802.0
+Iowa,19059.0,4754.0
+Kansas,20041.0,5915.0
+Michigan,26043.0,9455.0
+Tennessee,47043.0,20295.0
+Alaska,2070.0,2272.0
+South Carolina,45033.0,11778.0
+Texas,48127.0,6235.0
+Virginia,51053.0,7533.0
+District of Columbia,11001.0,178226.0
+North Dakota,38023.0,605.0
+Florida,12029.0,4934.0
+Nebraska,31051.0,1412.0
+West Virginia,54017.0,2510.0
+Georgia,13091.0,5967.0
+Minnesota,27039.0,6758.0
+Nebraska,31053.0,12120.0
+Wisconsin,55027.0,33157.0
+Colorado,8033.0,424.0
+Kansas,20043.0,2857.0
+Texas,48129.0,1277.0
+Georgia,13093.0,2865.0
+Wisconsin,55029.0,8815.0
+Puerto Rico,72051.0,13038.0
+Maryland,24019.0,9588.0
+South Carolina,45035.0,71532.0
+Georgia,13095.0,24655.0
+Colorado,8035.0,101264.0
+Georgia,13097.0,43605.0
+Illinois,17041.0,7961.0
+Kansas,20045.0,34515.0
+Minnesota,27041.0,13486.0
+Missouri,29067.0,3070.0
+Nebraska,31055.0,182403.0
+Nevada,32005.0,8826.0
+Oregon,41019.0,26143.0
+South Dakota,46043.0,842.0
+Washington,53017.0,13386.0
+Wisconsin,55031.0,14516.0
+New Mexico,35013.0,77316.0
+Arkansas,5043.0,5645.0
+Illinois,17043.0,291016.0
+Indiana,18037.0,15130.0
+Iowa,19061.0,31111.0
+Utah,49013.0,5107.0
+Massachusetts,25007.0,4384.0
+Nebraska,31057.0,414.0
+Missouri,29069.0,9740.0
+North Dakota,38025.0,1202.0
+Wisconsin,55033.0,15658.0
+North Carolina,37061.0,21003.0
+North Carolina,37063.0,103643.0
+New York,36027.0,85668.0
+Florida,12031.0,317809.0
+Texas,48131.0,4443.0
+Tennessee,47045.0,15841.0
+Colorado,8037.0,18880.0
+Georgia,13099.0,3156.0
+Louisiana,22033.0,145186.0
+Louisiana,22035.0,3374.0
+Louisiana,22037.0,8382.0
+Texas,48133.0,3405.0
+Michigan,26045.0,35250.0
+Wisconsin,55035.0,36793.0
+Georgia,13101.0,1057.0
+Texas,48135.0,46056.0
+New Mexico,35015.0,19301.0
+North Dakota,38027.0,896.0
+Illinois,17045.0,6698.0
+North Carolina,37065.0,17643.0
+South Carolina,45037.0,8434.0
+Kentucky,21061.0,3307.0
+South Dakota,46045.0,1073.0
+Illinois,17047.0,2135.0
+Kansas,20047.0,682.0
+Texas,48137.0,560.0
+Georgia,13103.0,16467.0
+Illinois,17049.0,12877.0
+California,6017.0,39270.0
+Colorado,8041.0,238168.0
+Texas,48141.0,244008.0
+Colorado,8039.0,5852.0
+Georgia,13105.0,5347.0
+Kansas,20049.0,702.0
+Pennsylvania,42047.0,8665.0
+Indiana,18039.0,61536.0
+Nevada,32007.0,12955.0
+Kentucky,21063.0,3713.0
+Kansas,20051.0,8455.0
+Oklahoma,40045.0,1026.0
+Texas,48139.0,57700.0
+Kansas,20053.0,2470.0
+Alabama,1051.0,29896.0
+Idaho,16039.0,9165.0
+Georgia,13107.0,6801.0
+Utah,49015.0,2970.0
+Iowa,19063.0,2707.0
+Michigan,26047.0,7640.0
+North Dakota,38029.0,841.0
+Virginia,51595.0,1665.0
+Texas,48143.0,9900.0
+New York,36029.0,272312.0
+Ohio,39043.0,25105.0
+Pennsylvania,42049.0,72513.0
+Alabama,1053.0,12432.0
+Florida,12033.0,94491.0
+Nevada,32009.0,124.0
+Massachusetts,25009.0,257547.0
+New Jersey,34013.0,292490.0
+New York,36031.0,7886.0
+Vermont,50009.0,1466.0
+Virginia,51057.0,2841.0
+Kentucky,21065.0,5314.0
+Alabama,1055.0,34266.0
+Nevada,32011.0,192.0
+Louisiana,22039.0,10311.0
+Georgia,13109.0,2852.0
+Alaska,2090.0,33564.0
+Virginia,51059.0,262100.0
+Virginia,51600.0,2755.0
+Connecticut,9001.0,264808.0
+Ohio,39045.0,47583.0
+South Carolina,45039.0,7724.0
+Puerto Rico,72053.0,10173.0
+South Dakota,46047.0,2511.0
+Montana,30025.0,799.0
+Texas,48145.0,4334.0
+Virginia,51610.0,3519.0
+Georgia,13111.0,5806.0
+Texas,48147.0,8188.0
+Minnesota,27043.0,4492.0
+South Dakota,46049.0,713.0
+Arkansas,5045.0,43060.0
+Virginia,51061.0,16672.0
+Alabama,1057.0,5900.0
+Georgia,13113.0,29772.0
+Illinois,17051.0,8776.0
+Indiana,18041.0,8396.0
+Iowa,19065.0,4977.0
+Kentucky,21067.0,123470.0
+Ohio,39047.0,9442.0
+Pennsylvania,42051.0,39194.0
+Tennessee,47047.0,14284.0
+Texas,48149.0,5305.0
+West Virginia,54019.0,17021.0
+Tennessee,47049.0,7135.0
+Montana,30027.0,2979.0
+Washington,53019.0,1849.0
+Minnesota,27045.0,5915.0
+Nebraska,31059.0,1321.0
+Kansas,20055.0,13480.0
+Texas,48151.0,706.0
+Florida,12035.0,28937.0
+Montana,30029.0,33915.0
+Kentucky,21069.0,5013.0
+South Carolina,45041.0,50632.0
+Wisconsin,55037.0,1353.0
+Puerto Rico,72054.0,5100.0
+Georgia,13115.0,32338.0
+Indiana,18043.0,24308.0
+Iowa,19067.0,4193.0
+Kentucky,21071.0,17028.0
+Texas,48153.0,2190.0
+Virginia,51063.0,3724.0
+Virginia,51065.0,6917.0
+Texas,48155.0,237.0
+Wisconsin,55039.0,39435.0
+Illinois,17053.0,5533.0
+Kansas,20057.0,12533.0
+Pennsylvania,42053.0,2553.0
+Wisconsin,55041.0,3381.0
+Mississippi,28035.0,27583.0
+Georgia,13117.0,68242.0
+North Carolina,37067.0,125979.0
+Texas,48157.0,254369.0
+North Dakota,38031.0,1173.0
+Indiana,18045.0,6428.0
+Alabama,1059.0,12078.0
+Arkansas,5047.0,4494.0
+Florida,12037.0,3550.0
+Georgia,13119.0,6267.0
+Idaho,16041.0,2597.0
+Illinois,17055.0,15501.0
+Indiana,18047.0,5209.0
+Iowa,19069.0,2969.0
+Kansas,20059.0,8258.0
+Kentucky,21073.0,18657.0
+Louisiana,22041.0,8899.0
+Maine,23007.0,7356.0
+Massachusetts,25011.0,14772.0
+Mississippi,28037.0,2376.0
+Missouri,29071.0,31552.0
+Nebraska,31061.0,510.0
+New York,36033.0,12326.0
+North Carolina,37069.0,26536.0
+Ohio,39049.0,368131.0
+Pennsylvania,42055.0,51763.0
+Tennessee,47051.0,16286.0
+Texas,48159.0,2652.0
+Vermont,50011.0,11795.0
+Virginia,51067.0,14170.0
+Washington,53021.0,36948.0
+Virginia,51620.0,2679.0
+Maryland,24021.0,58707.0
+Virginia,51069.0,26831.0
+Virginia,51630.0,7279.0
+Minnesota,27047.0,10589.0
+Texas,48161.0,4086.0
+Colorado,8043.0,18907.0
+Idaho,16043.0,2416.0
+Iowa,19071.0,1648.0
+Wyoming,56013.0,16923.0
+California,6019.0,330667.0
+Texas,48163.0,7959.0
+Nebraska,31063.0,624.0
+Arkansas,5049.0,3112.0
+Georgia,13121.0,277539.0
+Illinois,17057.0,12833.0
+Indiana,18049.0,5779.0
+Kentucky,21075.0,1484.0
+New York,36035.0,16803.0
+Ohio,39051.0,12711.0
+Pennsylvania,42057.0,5072.0
+Nebraska,31065.0,1333.0
+Florida,12039.0,17841.0
+Nebraska,31067.0,4658.0
+Texas,48165.0,1725.0
+Virginia,51640.0,3308.0
+Illinois,17059.0,1859.0
+Kentucky,21077.0,2819.0
+Montana,30031.0,41962.0
+Ohio,39053.0,10522.0
+Texas,48167.0,115929.0
+Nebraska,31069.0,489.0
+Colorado,8045.0,18079.0
+Montana,30033.0,251.0
+Nebraska,31071.0,498.0
+Oklahoma,40047.0,18185.0
+Utah,49017.0,1117.0
+Washington,53023.0,507.0
+Arkansas,5051.0,27112.0
+Kentucky,21079.0,6058.0
+Maryland,24023.0,7241.0
+Oklahoma,40049.0,8690.0
+Texas,48169.0,1342.0
+Missouri,29073.0,4104.0
+North Carolina,37071.0,82129.0
+North Carolina,37073.0,2457.0
+Kansas,20061.0,11490.0
+Ohio,39055.0,20654.0
+Idaho,16045.0,4275.0
+Michigan,26049.0,125815.0
+New York,36037.0,16809.0
+Alabama,1061.0,7979.0
+Missouri,29075.0,2694.0
+Mississippi,28039.0,8789.0
+South Carolina,45043.0,19858.0
+Indiana,18051.0,14382.0
+Tennessee,47053.0,22059.0
+Arizona,4007.0,21454.0
+Florida,12041.0,5658.0
+Tennessee,47055.0,11557.0
+Virginia,51071.0,5304.0
+Texas,48171.0,6202.0
+Oregon,41021.0,324.0
+Georgia,13123.0,8340.0
+West Virginia,54021.0,2556.0
+Colorado,8047.0,1177.0
+Montana,30035.0,4766.0
+Florida,12043.0,2307.0
+Michigan,26051.0,6833.0
+Georgia,13125.0,731.0
+Texas,48173.0,246.0
+California,6021.0,7830.0
+New Jersey,34015.0,91925.0
+Virginia,51073.0,9664.0
+Georgia,13127.0,27344.0
+Michigan,26053.0,4360.0
+Montana,30037.0,178.0
+North Dakota,38033.0,517.0
+Texas,48175.0,1758.0
+Texas,48177.0,5252.0
+Virginia,51075.0,5801.0
+Minnesota,27049.0,15650.0
+Idaho,16047.0,3942.0
+Georgia,13129.0,19917.0
+Wyoming,56015.0,4610.0
+Nebraska,31073.0,453.0
+Kansas,20063.0,970.0
+Georgia,13131.0,6884.0
+Oklahoma,40051.0,16995.0
+New Hampshire,33009.0,23409.0
+Arizona,4009.0,14141.0
+Kansas,20065.0,760.0
+North Carolina,37075.0,2983.0
+Tennessee,47057.0,8313.0
+Colorado,8049.0,4069.0
+Utah,49019.0,2806.0
+North Dakota,38035.0,27135.0
+Vermont,50013.0,1303.0
+Michigan,26055.0,21638.0
+Montana,30039.0,672.0
+Arkansas,5053.0,5258.0
+Indiana,18053.0,21069.0
+Kansas,20067.0,2781.0
+Kentucky,21081.0,10033.0
+Louisiana,22043.0,7566.0
+Minnesota,27051.0,1826.0
+Nebraska,31075.0,114.0
+New Mexico,35017.0,9928.0
+North Dakota,38037.0,557.0
+Oklahoma,40053.0,1248.0
+Oregon,41023.0,2260.0
+South Dakota,46051.0,2436.0
+Washington,53025.0,33011.0
+West Virginia,54023.0,4861.0
+Wisconsin,55043.0,15587.0
+North Carolina,37077.0,19678.0
+Michigan,26057.0,16024.0
+Kentucky,21083.0,13697.0
+Kansas,20069.0,1432.0
+Texas,48179.0,6748.0
+Washington,53027.0,20579.0
+Kentucky,21085.0,10089.0
+Texas,48181.0,32155.0
+Virginia,51077.0,5671.0
+Kansas,20071.0,391.0
+Nebraska,31077.0,472.0
+Kentucky,21087.0,4871.0
+Wisconsin,55045.0,11724.0
+Wisconsin,55047.0,6425.0
+West Virginia,54025.0,12963.0
+Alabama,1063.0,2320.0
+Arkansas,5055.0,19820.0
+Georgia,13133.0,4773.0
+Illinois,17061.0,4286.0
+Indiana,18055.0,9137.0
+Iowa,19073.0,2054.0
+Mississippi,28041.0,3909.0
+Missouri,29077.0,85256.0
+New York,36039.0,11171.0
+North Carolina,37079.0,7217.0
+Ohio,39057.0,48685.0
+Pennsylvania,42059.0,10752.0
+Tennessee,47059.0,28064.0
+Virginia,51079.0,5095.0
+Arizona,4011.0,2735.0
+Virginia,51081.0,3918.0
+Kentucky,21089.0,16884.0
+South Carolina,45045.0,207544.0
+Kansas,20073.0,2226.0
+South Carolina,45047.0,26984.0
+Oklahoma,40055.0,1597.0
+Texas,48183.0,22479.0
+South Dakota,46053.0,1223.0
+Mississippi,28043.0,6459.0
+North Dakota,38039.0,679.0
+Texas,48185.0,9524.0
+Illinois,17063.0,16407.0
+Iowa,19075.0,3066.0
+Missouri,29079.0,3152.0
+Tennessee,47061.0,4646.0
+New Mexico,35019.0,1751.0
+Texas,48187.0,44822.0
+Puerto Rico,72055.0,4062.0
+Puerto Rico,72057.0,12542.0
+Puerto Rico,72059.0,6116.0
+Puerto Rico,72061.0,31514.0
+Ohio,39059.0,13709.0
+North Carolina,37081.0,161206.0
+Florida,12045.0,5026.0
+Colorado,8051.0,3971.0
+Puerto Rico,72063.0,15248.0
+Iowa,19077.0,2782.0
+Georgia,13135.0,258304.0
+South Dakota,46055.0,533.0
+Georgia,13137.0,11631.0
+Alaska,2100.0,802.0
+Alabama,1065.0,5742.0
+Texas,48189.0,7278.0
+North Carolina,37083.0,18942.0
+Virginia,51083.0,9696.0
+Georgia,13139.0,64835.0
+Nebraska,31079.0,19712.0
+Texas,48191.0,1221.0
+Tennessee,47063.0,24807.0
+Florida,12047.0,4567.0
+Illinois,17065.0,2679.0
+Indiana,18057.0,97074.0
+Iowa,19079.0,4008.0
+Kansas,20075.0,553.0
+Nebraska,31081.0,2876.0
+New York,36041.0,1112.0
+Ohio,39061.0,238972.0
+Tennessee,47065.0,122361.0
+Texas,48193.0,2059.0
+South Dakota,46057.0,1817.0
+Massachusetts,25013.0,172434.0
+Massachusetts,25015.0,39845.0
+West Virginia,54027.0,7366.0
+South Carolina,45049.0,6085.0
+Virginia,51650.0,38832.0
+Georgia,13141.0,1955.0
+Illinois,17067.0,5409.0
+Indiana,18059.0,25265.0
+Iowa,19081.0,3291.0
+Kentucky,21091.0,3164.0
+Maine,23009.0,10274.0
+Mississippi,28045.0,15005.0
+Ohio,39063.0,21540.0
+Tennessee,47067.0,2648.0
+West Virginia,54029.0,8507.0
+South Dakota,46059.0,683.0
+Virginia,51085.0,29147.0
+Texas,48195.0,2246.0
+South Dakota,46061.0,752.0
+Georgia,13143.0,6346.0
+Florida,12049.0,10367.0
+Tennessee,47069.0,9550.0
+Texas,48197.0,642.0
+Illinois,17069.0,1449.0
+Iowa,19083.0,5084.0
+Kentucky,21093.0,43916.0
+Ohio,39065.0,8870.0
+Tennessee,47071.0,10965.0
+Texas,48199.0,15255.0
+New Mexico,35021.0,104.0
+South Dakota,46063.0,222.0
+West Virginia,54031.0,5753.0
+Maryland,24025.0,50308.0
+Kentucky,21095.0,12854.0
+Nebraska,31083.0,397.0
+Oklahoma,40057.0,918.0
+North Carolina,37085.0,42879.0
+Oregon,41025.0,1973.0
+Kansas,20077.0,1926.0
+Oklahoma,40059.0,838.0
+Georgia,13145.0,7136.0
+Texas,48201.0,1312744.0
+Indiana,18061.0,13420.0
+Iowa,19085.0,3853.0
+Kentucky,21097.0,8553.0
+Mississippi,28047.0,66227.0
+Missouri,29081.0,2474.0
+Ohio,39067.0,4180.0
+Texas,48203.0,15629.0
+West Virginia,54033.0,26301.0
+Virginia,51660.0,15315.0
+Georgia,13147.0,5669.0
+Kentucky,21099.0,6942.0
+Connecticut,9003.0,237616.0
+Texas,48205.0,1286.0
+Kansas,20079.0,11986.0
+Kansas,20081.0,1138.0
+Oklahoma,40061.0,3385.0
+Texas,48207.0,1128.0
+Puerto Rico,72065.0,12351.0
+Hawaii,15001.0,42786.0
+Tennessee,47073.0,21807.0
+Nebraska,31085.0,109.0
+Texas,48209.0,78958.0
+North Carolina,37087.0,17256.0
+Tennessee,47075.0,8096.0
+Georgia,13149.0,2594.0
+Texas,48211.0,1419.0
+Arkansas,5057.0,5645.0
+Illinois,17071.0,1577.0
+Kentucky,21101.0,17734.0
+North Carolina,37089.0,33445.0
+Tennessee,47077.0,11196.0
+Texas,48213.0,17716.0
+Indiana,18063.0,47865.0
+Florida,12051.0,13826.0
+Minnesota,27053.0,387288.0
+Virginia,51087.0,91949.0
+Alabama,1067.0,5879.0
+Georgia,13151.0,72242.0
+Illinois,17073.0,16020.0
+Indiana,18065.0,16257.0
+Iowa,19087.0,6531.0
+Kentucky,21103.0,6420.0
+Missouri,29083.0,7086.0
+Ohio,39069.0,7933.0
+Tennessee,47079.0,10265.0
+Virginia,51089.0,16076.0
+New York,36043.0,17662.0
+Florida,12053.0,53794.0
+North Carolina,37091.0,6402.0
+North Dakota,38041.0,959.0
+Kentucky,21105.0,1114.0
+Tennessee,47081.0,8578.0
+Missouri,29085.0,2421.0
+New Mexico,35023.0,1349.0
+Texas,48215.0,266450.0
+Ohio,39071.0,13536.0
+Virginia,51091.0,496.0
+Florida,12055.0,30726.0
+Montana,30041.0,5416.0
+Texas,48217.0,9435.0
+Florida,12057.0,479357.0
+New Hampshire,33011.0,121916.0
+Michigan,26059.0,12822.0
+Mississippi,28049.0,68193.0
+Colorado,8053.0,162.0
+Nebraska,31087.0,637.0
+Ohio,39073.0,8700.0
+Texas,48219.0,8762.0
+Kansas,20083.0,511.0
+North Carolina,37093.0,19600.0
+Florida,12059.0,6351.0
+Mississippi,28051.0,5252.0
+Ohio,39075.0,5883.0
+Missouri,29087.0,1316.0
+Nebraska,31089.0,2620.0
+Hawaii,15003.0,264809.0
+Texas,48221.0,14842.0
+Oregon,41027.0,4705.0
+Nebraska,31091.0,129.0
+Virginia,51670.0,7865.0
+Kentucky,21107.0,19856.0
+Texas,48223.0,8627.0
+Puerto Rico,72067.0,5213.0
+South Carolina,45051.0,121305.0
+Arkansas,5059.0,13067.0
+Wyoming,56017.0,1443.0
+Michigan,26061.0,9629.0
+Alabama,1069.0,32753.0
+Georgia,13153.0,49597.0
+Minnesota,27055.0,5508.0
+Tennessee,47083.0,3067.0
+Texas,48225.0,4889.0
+Arkansas,5061.0,4660.0
+Indiana,18067.0,30097.0
+Iowa,19089.0,2336.0
+Maryland,24027.0,64431.0
+Missouri,29089.0,2980.0
+Nebraska,31093.0,1351.0
+Texas,48227.0,8327.0
+Missouri,29091.0,11037.0
+Minnesota,27057.0,6146.0
+New Jersey,34017.0,239195.0
+Texas,48229.0,1364.0
+Colorado,8055.0,1779.0
+Oklahoma,40063.0,3133.0
+South Dakota,46065.0,5131.0
+Puerto Rico,72069.0,17885.0
+California,6023.0,29376.0
+Iowa,19091.0,3091.0
+Nevada,32013.0,2806.0
+Mississippi,28053.0,2408.0
+Tennessee,47085.0,6191.0
+Texas,48231.0,20166.0
+New Jersey,34019.0,34796.0
+Pennsylvania,42061.0,13921.0
+Indiana,18069.0,14395.0
+Michigan,26063.0,9797.0
+Ohio,39077.0,18053.0
+South Dakota,46067.0,2057.0
+Texas,48233.0,6780.0
+North Carolina,37095.0,1708.0
+South Dakota,46069.0,366.0
+Louisiana,22045.0,24051.0
+Louisiana,22047.0,11749.0
+Iowa,19093.0,2168.0
+Idaho,16049.0,3621.0
+California,6025.0,89703.0
+Arkansas,5063.0,12812.0
+Florida,12061.0,42690.0
+Pennsylvania,42063.0,22031.0
+Michigan,26065.0,85274.0
+California,6027.0,6090.0
+Michigan,26067.0,23106.0
+Michigan,26069.0,5724.0
+Iowa,19095.0,4342.0
+Wisconsin,55049.0,6926.0
+North Carolina,37097.0,62048.0
+Texas,48235.0,624.0
+Michigan,26071.0,3642.0
+Missouri,29093.0,2700.0
+Utah,49021.0,16652.0
+Wisconsin,55051.0,1833.0
+Illinois,17075.0,8907.0
+Georgia,13155.0,2250.0
+Puerto Rico,72071.0,14594.0
+Michigan,26073.0,18056.0
+Minnesota,27059.0,11774.0
+Washington,53029.0,13917.0
+Virginia,51093.0,9245.0
+Mississippi,28055.0,307.0
+Minnesota,27061.0,13692.0
+Mississippi,28057.0,9472.0
+Arkansas,5065.0,4730.0
+Texas,48237.0,1693.0
+Alabama,1071.0,18419.0
+Arkansas,5067.0,7291.0
+Colorado,8057.0,196.0
+Florida,12063.0,18291.0
+Georgia,13157.0,25060.0
+Illinois,17077.0,20278.0
+Indiana,18071.0,15192.0
+Iowa,19097.0,5566.0
+Kansas,20085.0,4652.0
+Kentucky,21109.0,5247.0
+Louisiana,22049.0,5627.0
+Michigan,26075.0,55849.0
+Minnesota,27063.0,2684.0
+Mississippi,28059.0,46011.0
+Missouri,29095.0,118555.0
+North Carolina,37099.0,12225.0
+Ohio,39079.0,11873.0
+Oklahoma,40065.0,8304.0
+Oregon,41029.0,54796.0
+South Dakota,46071.0,752.0
+Tennessee,47087.0,3913.0
+Texas,48239.0,3884.0
+West Virginia,54035.0,8895.0
+Wisconsin,55053.0,6970.0
+Virginia,51095.0,21340.0
+Georgia,13159.0,3804.0
+Illinois,17079.0,3235.0
+Indiana,18073.0,11096.0
+Iowa,19099.0,10492.0
+Mississippi,28061.0,6162.0
+Missouri,29097.0,24460.0
+South Carolina,45053.0,7315.0
+Texas,48241.0,9338.0
+Indiana,18075.0,5916.0
+Puerto Rico,72073.0,5899.0
+Georgia,13161.0,4361.0
+Texas,48243.0,278.0
+Alabama,1073.0,239299.0
+Arkansas,5069.0,22384.0
+Colorado,8059.0,161298.0
+Florida,12065.0,5034.0
+Georgia,13163.0,4264.0
+Idaho,16051.0,6876.0
+Illinois,17081.0,13657.0
+Indiana,18077.0,11258.0
+Iowa,19101.0,4443.0
+Kansas,20087.0,5780.0
+Kentucky,21111.0,284727.0
+Louisiana,22051.0,142848.0
+Mississippi,28063.0,1796.0
+Missouri,29099.0,68038.0
+Montana,30043.0,3157.0
+Nebraska,31095.0,1436.0
+New York,36045.0,27580.0
+Ohio,39081.0,18880.0
+Oklahoma,40067.0,1598.0
+Oregon,41031.0,9081.0
+Pennsylvania,42065.0,11316.0
+Tennessee,47089.0,19887.0
+Texas,48245.0,64934.0
+Washington,53031.0,4969.0
+West Virginia,54037.0,18726.0
+Wisconsin,55055.0,27024.0
+Louisiana,22053.0,8227.0
+Mississippi,28065.0,3680.0
+Georgia,13165.0,1797.0
+Indiana,18079.0,8178.0
+South Dakota,46073.0,490.0
+Idaho,16053.0,7149.0
+Illinois,17083.0,7915.0
+Kentucky,21113.0,19216.0
+Kansas,20089.0,955.0
+Texas,48247.0,3773.0
+Texas,48249.0,14543.0
+Illinois,17085.0,5224.0
+Arkansas,5071.0,8209.0
+Georgia,13167.0,2653.0
+Illinois,17087.0,5594.0
+Indiana,18081.0,51093.0
+Iowa,19103.0,45144.0
+Kansas,20091.0,178806.0
+Kentucky,21115.0,9130.0
+Missouri,29101.0,14759.0
+Nebraska,31097.0,955.0
+Tennessee,47091.0,6134.0
+Texas,48251.0,52642.0
+Wyoming,56019.0,2388.0
+North Carolina,37101.0,76069.0
+Oklahoma,40069.0,3962.0
+Georgia,13169.0,6057.0
+Iowa,19105.0,6484.0
+Mississippi,28067.0,26547.0
+North Carolina,37103.0,2926.0
+South Dakota,46075.0,195.0
+Texas,48253.0,6162.0
+Missouri,,16541.0
+Oregon,41033.0,21048.0
+Utah,49023.0,3302.0
+Puerto Rico,72075.0,15097.0
+Montana,30045.0,285.0
+Puerto Rico,72077.0,13285.0
+Wisconsin,55057.0,9460.0
+Alaska,2110.0,11980.0
+Pennsylvania,42067.0,5753.0
+Michigan,26077.0,76071.0
+Hawaii,15005.0,1.0
+Michigan,26079.0,4537.0
+Minnesota,27065.0,4374.0
+West Virginia,54039.0,59468.0
+Minnesota,27067.0,15993.0
+Illinois,17089.0,166795.0
+Utah,49025.0,1616.0
+Illinois,17091.0,36916.0
+Missouri,,140174.0
+Texas,48255.0,6524.0
+Hawaii,15007.0,19215.0
+Texas,48257.0,42192.0
+Oklahoma,40071.0,15779.0
+Nebraska,31099.0,1431.0
+Kansas,20093.0,1382.0
+Nebraska,31101.0,1818.0
+Mississippi,28069.0,2657.0
+Alaska,2122.0,22581.0
+Illinois,17093.0,41956.0
+Texas,48259.0,9933.0
+Texas,48261.0,104.0
+Maine,23011.0,30348.0
+Wisconsin,55059.0,56890.0
+Delaware,10001.0,64665.0
+Maryland,24029.0,3965.0
+Michigan,26081.0,202691.0
+Rhode Island,44003.0,64631.0
+Texas,48263.0,225.0
+Kentucky,21117.0,54338.0
+Iowa,19107.0,2486.0
+California,6029.0,311476.0
+Texas,48265.0,10709.0
+South Carolina,45055.0,28029.0
+Alaska,2130.0,5131.0
+Wisconsin,55061.0,6851.0
+Michigan,26083.0,667.0
+Nebraska,31103.0,136.0
+North Dakota,38043.0,603.0
+Nebraska,31105.0,834.0
+Texas,48267.0,992.0
+Texas,48269.0,60.0
+Washington,53033.0,553261.0
+Virginia,51099.0,6924.0
+Virginia,51101.0,4741.0
+Virginia,51097.0,1477.0
+Oklahoma,40073.0,4863.0
+Kansas,20095.0,2345.0
+California,6031.0,67516.0
+South Dakota,46077.0,1576.0
+Texas,48271.0,774.0
+Colorado,8061.0,392.0
+Kansas,20097.0,776.0
+Oklahoma,40075.0,2416.0
+Colorado,8063.0,1880.0
+Washington,53035.0,53184.0
+Washington,53037.0,10456.0
+Minnesota,27069.0,1258.0
+Oregon,41035.0,18024.0
+Texas,48273.0,9579.0
+Washington,53039.0,4347.0
+Kentucky,21119.0,6099.0
+Illinois,17095.0,16307.0
+Indiana,18083.0,14273.0
+Kentucky,21121.0,15043.0
+Maine,23013.0,8208.0
+Missouri,29103.0,1196.0
+Nebraska,31107.0,1992.0
+Ohio,39083.0,16582.0
+Tennessee,47093.0,160281.0
+Texas,48275.0,626.0
+Alaska,2150.0,5887.0
+Minnesota,27071.0,3729.0
+Idaho,16055.0,47377.0
+Indiana,18085.0,23003.0
+Iowa,19109.0,4384.0
+Alaska,2158.0,4965.0
+Wisconsin,55063.0,43834.0
+Arizona,4012.0,6100.0
+Colorado,8067.0,15916.0
+Texas,48283.0,2531.0
+Indiana,18087.0,6550.0
+North Dakota,38045.0,1173.0
+Indiana,18091.0,31844.0
+Illinois,17099.0,37307.0
+Louisiana,22059.0,5106.0
+Kansas,20099.0,8001.0
+Minnesota,27073.0,2207.0
+Pennsylvania,42069.0,59381.0
+Missouri,29105.0,9631.0
+Arkansas,5073.0,1510.0
+Florida,12067.0,3158.0
+Louisiana,22055.0,79565.0
+Mississippi,28071.0,18964.0
+Missouri,29107.0,9273.0
+Wisconsin,55065.0,4463.0
+Louisiana,22057.0,35323.0
+Puerto Rico,72079.0,7179.0
+California,6033.0,14969.0
+Colorado,8065.0,2206.0
+Florida,12069.0,108896.0
+Illinois,17097.0,211308.0
+Indiana,18089.0,134679.0
+Michigan,26085.0,2481.0
+Minnesota,27075.0,2658.0
+Montana,30047.0,8382.0
+Ohio,39085.0,62249.0
+Oregon,41037.0,1656.0
+South Dakota,46079.0,2651.0
+Tennessee,47095.0,3196.0
+Minnesota,27077.0,929.0
+Alabama,1075.0,4749.0
+Georgia,13171.0,5862.0
+Mississippi,28073.0,22135.0
+Texas,48277.0,15254.0
+Texas,48279.0,4707.0
+Vermont,50015.0,4374.0
+Texas,48281.0,5925.0
+Nebraska,31109.0,95194.0
+Pennsylvania,42071.0,151403.0
+South Carolina,45057.0,31622.0
+Virginia,51103.0,2346.0
+Nevada,32015.0,1353.0
+Kansas,20101.0,370.0
+Oregon,41039.0,80163.0
+Wisconsin,55067.0,6790.0
+Georgia,13173.0,2704.0
+Michigan,26087.0,24939.0
+Wyoming,56021.0,31702.0
+Puerto Rico,72081.0,11668.0
+Colorado,8069.0,109824.0
+Kentucky,21123.0,4845.0
+Colorado,8071.0,4434.0
+Puerto Rico,72083.0,2967.0
+Puerto Rico,72085.0,12731.0
+California,6035.0,11712.0
+Idaho,16057.0,7738.0
+Oklahoma,40077.0,2777.0
+Alabama,1077.0,30476.0
+Mississippi,28075.0,22153.0
+Tennessee,47097.0,9470.0
+Kentucky,21125.0,27136.0
+Georgia,13175.0,16493.0
+South Carolina,45059.0,23116.0
+Texas,48285.0,5028.0
+Alabama,1079.0,9416.0
+Arkansas,5075.0,6535.0
+Illinois,17101.0,6856.0
+Indiana,18093.0,14539.0
+Kentucky,21127.0,5572.0
+Mississippi,28077.0,4571.0
+Missouri,29109.0,9331.0
+Ohio,39087.0,24584.0
+Pennsylvania,42073.0,23263.0
+South Dakota,46081.0,7797.0
+Tennessee,47099.0,16999.0
+Oklahoma,40079.0,15540.0
+Minnesota,27079.0,7514.0
+New Mexico,35025.0,23951.0
+Mississippi,28079.0,7713.0
+Kansas,20103.0,24338.0
+Pennsylvania,42075.0,45826.0
+Alabama,1081.0,47764.0
+Arkansas,5077.0,3346.0
+Florida,12071.0,241385.0
+Georgia,13177.0,8730.0
+Illinois,17103.0,11650.0
+Iowa,19111.0,9244.0
+Kentucky,21129.0,3514.0
+Mississippi,28081.0,34106.0
+North Carolina,37105.0,20188.0
+South Carolina,45061.0,5113.0
+Texas,48287.0,5161.0
+Virginia,51105.0,8510.0
+Michigan,26089.0,4456.0
+Mississippi,28083.0,8673.0
+Pennsylvania,42077.0,111883.0
+Idaho,16059.0,1810.0
+Michigan,26091.0,32580.0
+North Carolina,37107.0,20378.0
+Florida,12073.0,113603.0
+Texas,48289.0,3926.0
+Kentucky,21131.0,5239.0
+Kentucky,21133.0,9877.0
+Florida,12075.0,12803.0
+Idaho,16061.0,1413.0
+Kentucky,21135.0,5781.0
+Missouri,29111.0,3394.0
+New York,36049.0,7431.0
+Tennessee,47101.0,4172.0
+Washington,53041.0,20962.0
+West Virginia,54041.0,6998.0
+Montana,30049.0,21913.0
+South Carolina,45063.0,124488.0
+Virginia,51678.0,2738.0
+Florida,12077.0,2998.0
+Georgia,13179.0,15895.0
+Montana,30051.0,530.0
+Texas,48291.0,23196.0
+Ohio,39089.0,53128.0
+Alabama,1083.0,32225.0
+Texas,48293.0,5754.0
+Arkansas,5079.0,5504.0
+Colorado,8073.0,2383.0
+Georgia,13181.0,1844.0
+Idaho,16063.0,1303.0
+Kansas,20105.0,741.0
+Kentucky,21137.0,8970.0
+Louisiana,22061.0,15597.0
+Maine,23015.0,6983.0
+Minnesota,27081.0,1524.0
+Mississippi,28085.0,10519.0
+Missouri,29113.0,18533.0
+Montana,30053.0,5648.0
+Nebraska,31111.0,10898.0
+Nevada,32017.0,700.0
+New Mexico,35027.0,6607.0
+North Carolina,37109.0,30504.0
+Oklahoma,40081.0,9943.0
+Oregon,41041.0,9384.0
+South Dakota,46083.0,17565.0
+Tennessee,47103.0,11813.0
+Washington,53043.0,2716.0
+West Virginia,54043.0,7320.0
+Wisconsin,55069.0,9106.0
+Wyoming,56023.0,4911.0
+Iowa,19113.0,65101.0
+Kansas,20107.0,3497.0
+Missouri,29115.0,3168.0
+Oregon,41043.0,33493.0
+Texas,48295.0,771.0
+Connecticut,9005.0,41894.0
+Arkansas,5081.0,3890.0
+Texas,48297.0,2382.0
+Illinois,17105.0,13353.0
+Kentucky,21139.0,3109.0
+Louisiana,22063.0,47463.0
+Michigan,26093.0,58554.0
+Missouri,29117.0,4455.0
+New York,36051.0,14585.0
+Texas,48299.0,4921.0
+Arkansas,5083.0,6075.0
+Colorado,8075.0,8670.0
+Illinois,17107.0,12712.0
+Kansas,20109.0,1021.0
+Kentucky,21141.0,10399.0
+Nebraska,31113.0,166.0
+North Dakota,38047.0,558.0
+Ohio,39091.0,12814.0
+Oklahoma,40083.0,13493.0
+West Virginia,54045.0,13019.0
+Puerto Rico,72087.0,5898.0
+Georgia,13183.0,3501.0
+Arkansas,5085.0,24045.0
+Ohio,39093.0,90443.0
+New Mexico,35028.0,4590.0
+California,6037.0,3723182.0
+Tennessee,47105.0,18901.0
+Virginia,51107.0,98127.0
+Iowa,19115.0,2954.0
+Virginia,51109.0,8959.0
+Nebraska,31115.0,93.0
+Oklahoma,40085.0,3994.0
+Texas,48301.0,410.0
+Alabama,1085.0,3384.0
+Georgia,13185.0,37092.0
+Mississippi,28087.0,21366.0
+Texas,48303.0,113515.0
+Iowa,19117.0,2193.0
+Ohio,39095.0,126819.0
+Michigan,26095.0,2537.0
+Georgia,13187.0,9056.0
+New Mexico,35029.0,8033.0
+Virginia,51111.0,3381.0
+Puerto Rico,72089.0,5418.0
+Pennsylvania,42079.0,95182.0
+Pennsylvania,42081.0,35180.0
+South Dakota,46085.0,1438.0
+Virginia,51680.0,24487.0
+Texas,48305.0,1694.0
+Iowa,19119.0,3170.0
+Kansas,20111.0,12091.0
+Kentucky,21143.0,3631.0
+Minnesota,27083.0,8329.0
+Nevada,32019.0,12293.0
+Michigan,26097.0,3006.0
+Michigan,26099.0,302478.0
+Alabama,1087.0,5309.0
+Georgia,13193.0,2743.0
+Illinois,17115.0,40527.0
+Missouri,29121.0,4271.0
+North Carolina,37113.0,9839.0
+Tennessee,47111.0,10452.0
+Illinois,17117.0,16158.0
+California,6039.0,55360.0
+Alabama,1089.0,116344.0
+Arkansas,5087.0,4866.0
+Florida,12079.0,7024.0
+Georgia,13195.0,8046.0
+Idaho,16065.0,13817.0
+Illinois,17119.0,87953.0
+Indiana,18095.0,39843.0
+Iowa,19121.0,3720.0
+Kentucky,21151.0,35658.0
+Louisiana,22065.0,3944.0
+Mississippi,28089.0,31987.0
+Missouri,29123.0,4305.0
+Montana,30057.0,2399.0
+Nebraska,31119.0,11634.0
+New York,36053.0,17031.0
+North Carolina,37115.0,6331.0
+Ohio,39097.0,11646.0
+Tennessee,47113.0,39987.0
+Texas,48313.0,3932.0
+Virginia,51113.0,3183.0
+Kentucky,21153.0,5158.0
+Iowa,19123.0,5816.0
+Minnesota,27087.0,2201.0
+Ohio,39099.0,68068.0
+Oklahoma,40093.0,3320.0
+Oregon,41045.0,9769.0
+Virginia,51685.0,4917.0
+Virginia,51683.0,11911.0
+Florida,12081.0,122931.0
+Puerto Rico,72091.0,13146.0
+Michigan,26101.0,5661.0
+Wisconsin,55071.0,25255.0
+Wisconsin,55073.0,49757.0
+Alabama,1091.0,6104.0
+Puerto Rico,72093.0,1675.0
+Arizona,4013.0,1533874.0
+Missouri,29125.0,1969.0
+California,6041.0,55162.0
+Wisconsin,55075.0,14649.0
+Alabama,1093.0,10134.0
+Arkansas,5089.0,4106.0
+Florida,12083.0,105676.0
+Georgia,13197.0,1879.0
+Illinois,17121.0,14725.0
+Indiana,18097.0,269091.0
+Iowa,19125.0,8936.0
+Kansas,20115.0,4056.0
+Kentucky,21155.0,8062.0
+Mississippi,28091.0,8806.0
+Missouri,29127.0,9859.0
+Ohio,39101.0,24624.0
+Oregon,41047.0,88617.0
+South Carolina,45067.0,10686.0
+Tennessee,47115.0,11122.0
+Texas,48315.0,2053.0
+West Virginia,54049.0,20513.0
+California,6043.0,4552.0
+South Carolina,45069.0,9965.0
+Michigan,26103.0,20462.0
+Wisconsin,55077.0,4656.0
+Alabama,1095.0,33032.0
+Illinois,17123.0,3492.0
+Indiana,18099.0,14092.0
+Iowa,19127.0,11503.0
+Kansas,20117.0,2964.0
+Kentucky,21157.0,10285.0
+Minnesota,27089.0,2533.0
+Mississippi,28093.0,12074.0
+Oklahoma,40095.0,5684.0
+South Dakota,46091.0,960.0
+Tennessee,47117.0,12765.0
+West Virginia,54051.0,11267.0
+Florida,12085.0,40558.0
+Indiana,18101.0,2622.0
+Kentucky,21159.0,4251.0
+Minnesota,27091.0,6750.0
+North Carolina,37117.0,7627.0
+Texas,48317.0,1401.0
+Virginia,51690.0,4604.0
+Illinois,17125.0,4738.0
+Kentucky,21161.0,6346.0
+Michigan,26105.0,8399.0
+Texas,48319.0,1111.0
+Washington,53045.0,15923.0
+West Virginia,54053.0,9015.0
+Illinois,17127.0,4667.0
+Texas,48321.0,10550.0
+Alaska,2170.0,40707.0
+Virginia,51115.0,2072.0
+Hawaii,15009.0,45597.0
+Puerto Rico,72095.0,3475.0
+Tennessee,47119.0,35167.0
+Texas,48323.0,25381.0
+Puerto Rico,72097.0,23216.0
+Oklahoma,40097.0,12399.0
+Oklahoma,40087.0,14147.0
+Montana,30055.0,452.0
+South Dakota,46087.0,1510.0
+South Carolina,45065.0,2759.0
+Kentucky,21145.0,24038.0
+Kentucky,21147.0,7756.0
+Texas,48307.0,2000.0
+Oklahoma,40089.0,9754.0
+Missouri,29119.0,6658.0
+Illinois,17109.0,9161.0
+North Carolina,37111.0,17387.0
+West Virginia,54047.0,7511.0
+Georgia,13189.0,6181.0
+Illinois,17111.0,98588.0
+North Dakota,38049.0,1581.0
+Georgia,13191.0,2877.0
+North Dakota,38051.0,897.0
+Oklahoma,40091.0,6401.0
+Pennsylvania,42083.0,9828.0
+North Dakota,38053.0,3659.0
+New Mexico,35031.0,33610.0
+Illinois,17113.0,64363.0
+Kentucky,21149.0,3361.0
+North Dakota,38055.0,3192.0
+Texas,48309.0,73767.0
+Minnesota,27085.0,13076.0
+Tennessee,47107.0,20097.0
+Texas,48311.0,196.0
+Tennessee,47109.0,9608.0
+Kansas,20113.0,9655.0
+Nebraska,31117.0,78.0
+South Dakota,46089.0,534.0
+Kansas,20119.0,1445.0
+Kentucky,21163.0,7531.0
+South Dakota,46093.0,8404.0
+Montana,30059.0,598.0
+North Carolina,37119.0,369208.0
+Virginia,51117.0,7924.0
+Michigan,26107.0,10348.0
+Ohio,39103.0,51181.0
+Texas,48325.0,12426.0
+Minnesota,27093.0,7224.0
+Ohio,39105.0,6446.0
+Tennessee,47121.0,4183.0
+South Dakota,46095.0,654.0
+Illinois,17129.0,4612.0
+Texas,48327.0,662.0
+California,6045.0,21776.0
+Kentucky,21165.0,2431.0
+Michigan,26109.0,7236.0
+Wisconsin,55078.0,2428.0
+California,6047.0,89763.0
+Illinois,17131.0,4952.0
+Kentucky,21167.0,9492.0
+Missouri,29129.0,909.0
+New Jersey,34021.0,112003.0
+North Dakota,38057.0,3018.0
+Ohio,39107.0,11413.0
+Pennsylvania,42085.0,28556.0
+West Virginia,54055.0,23646.0
+Georgia,13199.0,5605.0
+Nebraska,31121.0,2095.0
+New Hampshire,33013.0,40397.0
+Colorado,8077.0,52015.0
+Kentucky,21169.0,3746.0
+Indiana,18103.0,10919.0
+Kansas,20121.0,9696.0
+Ohio,39109.0,32120.0
+Florida,12086.0,1547142.0
+Connecticut,9007.0,38930.0
+Massachusetts,25017.0,438519.0
+New Jersey,34023.0,276553.0
+Virginia,51119.0,2538.0
+Michigan,26111.0,23600.0
+Texas,48329.0,48289.0
+Pennsylvania,42087.0,15226.0
+Texas,48331.0,6209.0
+Utah,49027.0,3691.0
+Minnesota,27095.0,8487.0
+Arkansas,5091.0,11636.0
+Georgia,13201.0,2053.0
+Missouri,29131.0,7099.0
+Iowa,19129.0,4012.0
+Texas,48333.0,1510.0
+Wisconsin,55079.0,343004.0
+South Dakota,46097.0,542.0
+Colorado,8079.0,312.0
+Montana,30061.0,1381.0
+Nevada,32021.0,1504.0
+West Virginia,54057.0,10321.0
+West Virginia,54059.0,10033.0
+Idaho,16067.0,4844.0
+South Dakota,46099.0,65454.0
+Michigan,26113.0,3596.0
+Arkansas,5093.0,16442.0
+Missouri,29133.0,4438.0
+Montana,30063.0,34151.0
+Georgia,13205.0,6337.0
+Iowa,19131.0,2847.0
+Kansas,20123.0,1766.0
+North Carolina,37121.0,4791.0
+Texas,48335.0,2147.0
+Alabama,1097.0,135201.0
+Puerto Rico,72099.0,13677.0
+California,6049.0,1334.0
+Colorado,8081.0,3748.0
+Arizona,4015.0,67574.0
+Missouri,29135.0,4403.0
+New Jersey,34025.0,224275.0
+California,6051.0,3638.0
+Iowa,19133.0,2105.0
+West Virginia,54061.0,31675.0
+Alabama,1099.0,6758.0
+Arkansas,5095.0,2311.0
+Florida,12087.0,22541.0
+Georgia,13207.0,7087.0
+Illinois,17133.0,11493.0
+Indiana,18105.0,34524.0
+Iowa,19135.0,2204.0
+Kentucky,21171.0,4512.0
+Michigan,26115.0,48717.0
+Mississippi,28095.0,13865.0
+Missouri,29137.0,2515.0
+New York,36055.0,194657.0
+Ohio,39111.0,4258.0
+Pennsylvania,42089.0,48284.0
+Tennessee,47123.0,18436.0
+West Virginia,54063.0,5974.0
+Wisconsin,55081.0,14812.0
+Texas,48337.0,5297.0
+Michigan,26117.0,20128.0
+California,6053.0,122827.0
+Colorado,8083.0,7717.0
+Alabama,1101.0,74047.0
+Arkansas,5097.0,1775.0
+Georgia,13209.0,2338.0
+Illinois,17135.0,12210.0
+Indiana,18107.0,12329.0
+Iowa,19137.0,2613.0
+Kansas,20125.0,11031.0
+Kentucky,21173.0,11435.0
+Maryland,24031.0,246817.0
+Mississippi,28097.0,3710.0
+Missouri,29139.0,3120.0
+New York,36057.0,15209.0
+North Carolina,37123.0,9074.0
+Ohio,39113.0,163234.0
+Pennsylvania,42091.0,200695.0
+Tennessee,47125.0,63942.0
+Texas,48339.0,171922.0
+Virginia,51121.0,25212.0
+Michigan,26119.0,2005.0
+Pennsylvania,42093.0,6006.0
+Colorado,8085.0,11211.0
+South Dakota,46101.0,1694.0
+North Carolina,37125.0,31811.0
+Tennessee,47127.0,2755.0
+Texas,48341.0,5975.0
+New Mexico,35033.0,992.0
+Louisiana,22067.0,8578.0
+Alabama,1103.0,46671.0
+Colorado,8087.0,7003.0
+Georgia,13211.0,5645.0
+Illinois,17137.0,12479.0
+Indiana,18109.0,19620.0
+Kentucky,21175.0,6771.0
+Missouri,29141.0,4936.0
+Ohio,39115.0,4156.0
+Tennessee,47129.0,7887.0
+Utah,49029.0,3247.0
+West Virginia,54065.0,5250.0
+Puerto Rico,72101.0,9578.0
+Nebraska,31123.0,1354.0
+Kansas,20127.0,1769.0
+New Jersey,34027.0,166264.0
+Texas,48343.0,2987.0
+Minnesota,27097.0,11214.0
+Ohio,39117.0,9426.0
+Oregon,41049.0,3412.0
+Kansas,20129.0,742.0
+North Dakota,38059.0,13293.0
+Texas,48345.0,296.0
+Illinois,17139.0,4959.0
+North Dakota,38061.0,3906.0
+Minnesota,27099.0,13916.0
+Kentucky,21177.0,13349.0
+Oregon,41051.0,172262.0
+Georgia,13213.0,13572.0
+Minnesota,27101.0,2404.0
+Oklahoma,40099.0,5317.0
+Iowa,19139.0,11290.0
+Georgia,13215.0,46174.0
+Michigan,26121.0,51076.0
+Ohio,39119.0,31879.0
+Oklahoma,40101.0,24634.0
+Montana,30065.0,1109.0
+Texas,48347.0,14913.0
+Puerto Rico,72103.0,7545.0
+Nebraska,31125.0,913.0
+Massachusetts,25019.0,3957.0
+California,6055.0,36088.0
+Puerto Rico,72105.0,10276.0
+North Carolina,37127.0,32745.0
+Florida,12089.0,27262.0
+New York,36059.0,551777.0
+Louisiana,22069.0,13072.0
+Wyoming,56025.0,25882.0
+Arizona,4017.0,48672.0
+Texas,48349.0,14864.0
+Kentucky,21179.0,19324.0
+North Dakota,38063.0,931.0
+Virginia,51125.0,3263.0
+Kansas,20131.0,3813.0
+Nebraska,31127.0,1599.0
+Kansas,20133.0,6124.0
+Mississippi,28099.0,12895.0
+Kansas,20135.0,916.0
+Arkansas,5099.0,2777.0
+California,6057.0,22556.0
+Delaware,10003.0,188454.0
+North Carolina,37129.0,64711.0
+Connecticut,9009.0,258381.0
+Virginia,51127.0,5986.0
+Connecticut,9011.0,74124.0
+Missouri,29143.0,6129.0
+New York,,3252967.0
+Michigan,26123.0,13760.0
+South Carolina,45071.0,16534.0
+Rhode Island,44005.0,26630.0
+Virginia,51700.0,49995.0
+Arkansas,5101.0,2055.0
+Georgia,13217.0,30872.0
+Indiana,18111.0,3125.0
+Mississippi,28101.0,7140.0
+Missouri,29145.0,13881.0
+Texas,48351.0,1992.0
+Idaho,16069.0,10663.0
+New York,36063.0,60246.0
+Kentucky,21181.0,2733.0
+West Virginia,54067.0,9414.0
+Minnesota,27103.0,9925.0
+Wyoming,56027.0,863.0
+Indiana,18113.0,15773.0
+Ohio,39121.0,3918.0
+Oklahoma,40103.0,3621.0
+Minnesota,27105.0,8212.0
+Missouri,29147.0,7643.0
+Texas,48353.0,2979.0
+Alaska,2180.0,7637.0
+Massachusetts,25021.0,174077.0
+Virginia,51710.0,54167.0
+Minnesota,27107.0,1807.0
+Alaska,2185.0,5527.0
+North Carolina,37131.0,5950.0
+Pennsylvania,42095.0,100410.0
+Virginia,51131.0,2914.0
+Pennsylvania,42097.0,28784.0
+Virginia,51133.0,2719.0
+Alaska,2188.0,5869.0
+Kansas,20137.0,2460.0
+Virginia,51720.0,1620.0
+Virginia,51135.0,5692.0
+Oklahoma,40105.0,3266.0
+Mississippi,28103.0,3643.0
+Nebraska,31129.0,1103.0
+Texas,48355.0,114639.0
+Nevada,32023.0,9173.0
+Iowa,19141.0,3902.0
+Michigan,26125.0,386806.0
+Tennessee,47131.0,13575.0
+New Jersey,34029.0,216686.0
+Michigan,26127.0,7792.0
+Texas,48357.0,2621.0
+Georgia,13219.0,10583.0
+South Carolina,45073.0,29124.0
+Wisconsin,55083.0,13441.0
+Michigan,26129.0,5106.0
+South Dakota,46102.0,5123.0
+Illinois,17141.0,17558.0
+Georgia,13221.0,3774.0
+Indiana,18115.0,1772.0
+Kentucky,21183.0,8974.0
+West Virginia,54069.0,13978.0
+Florida,12091.0,61967.0
+Washington,53047.0,10874.0
+Florida,12093.0,12461.0
+Oklahoma,40107.0,4259.0
+Oklahoma,40109.0,246781.0
+Oklahoma,40111.0,11820.0
+Mississippi,28105.0,13813.0
+Kentucky,21185.0,23794.0
+Texas,48359.0,614.0
+North Dakota,38065.0,379.0
+Minnesota,27109.0,53346.0
+Idaho,16071.0,966.0
+New York,36065.0,69822.0
+Wisconsin,55085.0,11095.0
+New York,36067.0,144255.0
+North Carolina,37133.0,65356.0
+New York,36069.0,26587.0
+Michigan,26131.0,1354.0
+California,6059.0,792016.0
+Florida,12095.0,474111.0
+Indiana,18117.0,5962.0
+New York,36071.0,140973.0
+North Carolina,37135.0,39572.0
+Texas,48361.0,18494.0
+Vermont,50017.0,5173.0
+Virginia,51137.0,9212.0
+South Carolina,45075.0,29820.0
+Missouri,29149.0,2452.0
+Louisiana,22071.0,114653.0
+New York,36073.0,10702.0
+Vermont,50019.0,7178.0
+Puerto Rico,72107.0,6873.0
+Kansas,20139.0,4914.0
+Missouri,29151.0,3798.0
+Oklahoma,40113.0,13919.0
+Kansas,20141.0,1013.0
+Florida,12097.0,143893.0
+Iowa,19143.0,1579.0
+Michigan,26133.0,6032.0
+Michigan,26135.0,1699.0
+New York,36075.0,35094.0
+Colorado,8089.0,5337.0
+New Mexico,35035.0,19345.0
+Nebraska,31131.0,3915.0
+Michigan,26137.0,6810.0
+New York,36077.0,13450.0
+Kansas,20143.0,1459.0
+Michigan,26139.0,88265.0
+Ohio,39123.0,10923.0
+Oklahoma,40115.0,11773.0
+Minnesota,27111.0,16548.0
+Arkansas,5103.0,6779.0
+Louisiana,22073.0,65145.0
+Colorado,8091.0,1127.0
+Wisconsin,55087.0,64810.0
+Tennessee,47133.0,8704.0
+Indiana,18119.0,6912.0
+Kentucky,21187.0,3140.0
+Kentucky,21189.0,2102.0
+Idaho,16073.0,2619.0
+Maine,23017.0,14659.0
+Missouri,29153.0,2042.0
+Wisconsin,55089.0,27985.0
+Washington,53049.0,4880.0
+Iowa,19145.0,3861.0
+Virginia,51139.0,7084.0
+Florida,12099.0,479806.0
+Iowa,19147.0,2424.0
+Texas,48363.0,7954.0
+North Carolina,37137.0,3475.0
+Mississippi,28107.0,12460.0
+Texas,48365.0,5753.0
+Colorado,8093.0,3507.0
+Montana,30067.0,5140.0
+Wyoming,56029.0,7735.0
+Indiana,18121.0,4351.0
+Texas,48367.0,39912.0
+Texas,48369.0,2570.0
+Florida,12101.0,159666.0
+North Carolina,37139.0,10697.0
+New Jersey,34031.0,193988.0
+Puerto Rico,72109.0,5979.0
+Virginia,51141.0,5000.0
+Georgia,13223.0,46867.0
+Ohio,39125.0,5591.0
+Kansas,20145.0,2626.0
+Nebraska,31133.0,522.0
+Oklahoma,40117.0,5135.0
+Idaho,16075.0,6827.0
+Oklahoma,40119.0,23479.0
+Georgia,13225.0,7959.0
+Mississippi,28109.0,17843.0
+Texas,48371.0,3659.0
+North Dakota,38067.0,2409.0
+Missouri,29155.0,3829.0
+Washington,53051.0,2991.0
+North Carolina,37141.0,18779.0
+Texas,48999.0,65.0
+Kentucky,21191.0,4406.0
+West Virginia,54071.0,2368.0
+Minnesota,27113.0,4344.0
+South Dakota,46103.0,39108.0
+Maine,23019.0,38007.0
+Puerto Rico,72111.0,6002.0
+Illinois,17143.0,60126.0
+Wisconsin,55091.0,2308.0
+Nebraska,31135.0,588.0
+South Dakota,46105.0,830.0
+North Carolina,37143.0,3577.0
+Alabama,1105.0,2683.0
+Arkansas,5105.0,3020.0
+Illinois,17145.0,9184.0
+Indiana,18123.0,5885.0
+Kentucky,21193.0,16063.0
+Mississippi,28111.0,3781.0
+Missouri,29157.0,6355.0
+Ohio,39127.0,10404.0
+Pennsylvania,42099.0,10482.0
+Tennessee,47135.0,2814.0
+Nevada,32027.0,2368.0
+North Carolina,37145.0,12228.0
+Alaska,2195.0,924.0
+Virginia,51730.0,10273.0
+Montana,30069.0,45.0
+Missouri,29159.0,14965.0
+Missouri,29161.0,12947.0
+Nebraska,31137.0,2803.0
+Pennsylvania,42101.0,395740.0
+Arkansas,5107.0,5890.0
+Colorado,8095.0,1128.0
+Kansas,20147.0,1697.0
+Montana,30071.0,1150.0
+Illinois,17147.0,5596.0
+Ohio,39129.0,21344.0
+Alabama,1107.0,6364.0
+Georgia,13227.0,10175.0
+South Carolina,45077.0,54851.0
+Tennessee,47137.0,2205.0
+Georgia,13229.0,6439.0
+Nebraska,31139.0,1555.0
+North Dakota,38069.0,1253.0
+Washington,53053.0,246895.0
+Wisconsin,55093.0,13601.0
+Alabama,1109.0,9276.0
+Arkansas,5109.0,2965.0
+Georgia,13231.0,6516.0
+Illinois,17149.0,6167.0
+Indiana,18125.0,4506.0
+Kentucky,21195.0,25242.0
+Mississippi,28113.0,12859.0
+Missouri,29163.0,5256.0
+Ohio,39131.0,10005.0
+Pennsylvania,42103.0,13487.0
+Arizona,4019.0,318721.0
+Arizona,4021.0,157389.0
+Minnesota,27115.0,8600.0
+Florida,12103.0,275669.0
+Minnesota,27117.0,2427.0
+Maine,23021.0,3963.0
+Colorado,8097.0,8086.0
+North Carolina,37147.0,67270.0
+Oklahoma,40121.0,13945.0
+Virginia,51143.0,19183.0
+Utah,49031.0,361.0
+California,6061.0,91766.0
+Louisiana,22075.0,7962.0
+Missouri,29165.0,12851.0
+Nebraska,31141.0,10402.0
+Wyoming,56031.0,2301.0
+West Virginia,54073.0,2512.0
+California,6063.0,4301.0
+Iowa,19149.0,7215.0
+Massachusetts,25023.0,143891.0
+Iowa,19151.0,1949.0
+West Virginia,54075.0,2574.0
+Arkansas,5111.0,10128.0
+Louisiana,22077.0,8037.0
+Arkansas,5113.0,4654.0
+Florida,12105.0,260323.0
+Georgia,13233.0,13795.0
+Iowa,19153.0,148050.0
+Minnesota,27119.0,10736.0
+Missouri,29167.0,9958.0
+Nebraska,31143.0,1387.0
+North Carolina,37149.0,5068.0
+Oregon,41053.0,20653.0
+Tennessee,47139.0,5659.0
+Texas,48373.0,8455.0
+Wisconsin,55095.0,15216.0
+Puerto Rico,72113.0,42979.0
+Montana,30073.0,1484.0
+Mississippi,28115.0,12907.0
+Oklahoma,40123.0,16871.0
+Arkansas,5115.0,20974.0
+Illinois,17151.0,1267.0
+Minnesota,27121.0,3999.0
+Virginia,51735.0,2986.0
+Ohio,39133.0,44588.0
+Wisconsin,55097.0,22970.0
+Indiana,18127.0,47794.0
+Virginia,51740.0,26741.0
+Indiana,18129.0,7921.0
+Kansas,20149.0,7140.0
+Oklahoma,40125.0,27099.0
+Iowa,19155.0,28050.0
+Pennsylvania,42105.0,3896.0
+South Dakota,46107.0,812.0
+Texas,48375.0,43653.0
+Montana,30075.0,418.0
+Kentucky,21197.0,6561.0
+Montana,30077.0,2227.0
+Idaho,16077.0,1708.0
+Iowa,19157.0,4692.0
+Virginia,51145.0,6397.0
+Arkansas,5117.0,2418.0
+Montana,30079.0,292.0
+Kansas,20151.0,2284.0
+Ohio,39135.0,11699.0
+Mississippi,28117.0,10284.0
+Texas,48377.0,1271.0
+Michigan,26141.0,2403.0
+West Virginia,54077.0,11138.0
+Wisconsin,55099.0,4108.0
+Virginia,51147.0,6832.0
+Virginia,51149.0,11613.0
+Maryland,24033.0,230114.0
+Virginia,51153.0,128344.0
+Alaska,2198.0,1837.0
+Rhode Island,44007.0,279407.0
+Colorado,8099.0,3246.0
+Colorado,8101.0,62287.0
+Arkansas,5119.0,128164.0
+Georgia,13235.0,2711.0
+Illinois,17153.0,2062.0
+Indiana,18131.0,3553.0
+Kentucky,21199.0,22209.0
+Missouri,29169.0,10808.0
+Virginia,51155.0,11013.0
+Oklahoma,40127.0,3294.0
+Florida,12107.0,21210.0
+Georgia,13237.0,5275.0
+Illinois,17155.0,1422.0
+Indiana,18133.0,11205.0
+Missouri,29171.0,1181.0
+New York,36079.0,31844.0
+Ohio,39137.0,9972.0
+Tennessee,47141.0,29821.0
+West Virginia,54079.0,20951.0
+New Mexico,35037.0,2573.0
+Puerto Rico,72115.0,9237.0
+Maryland,24035.0,8878.0
+Georgia,13239.0,556.0
+Mississippi,28119.0,1835.0
+Georgia,13241.0,4150.0
+Wisconsin,55101.0,71517.0
+Virginia,51750.0,5212.0
+Texas,48379.0,2093.0
+West Virginia,54081.0,30841.0
+Missouri,29173.0,2963.0
+Minnesota,27123.0,160214.0
+North Dakota,38071.0,4396.0
+Texas,48381.0,47275.0
+Alabama,1111.0,6559.0
+Arkansas,5121.0,6466.0
+Georgia,13243.0,1834.0
+Illinois,17157.0,12986.0
+Indiana,18135.0,7019.0
+Missouri,29175.0,7218.0
+North Carolina,37151.0,44787.0
+West Virginia,54083.0,12205.0
+Mississippi,28121.0,47117.0
+North Dakota,38073.0,1931.0
+Louisiana,22079.0,42946.0
+Virginia,51157.0,1374.0
+Montana,30081.0,8588.0
+Kansas,20153.0,807.0
+Missouri,29177.0,6224.0
+Texas,48383.0,1000.0
+Texas,48385.0,979.0
+Minnesota,27125.0,1075.0
+Louisiana,22081.0,2583.0
+Texas,48387.0,2726.0
+Nebraska,31145.0,2716.0
+Minnesota,27127.0,4802.0
+Texas,48389.0,5895.0
+Texas,48391.0,2343.0
+Kansas,20155.0,22871.0
+New York,36083.0,42267.0
+Minnesota,27129.0,4580.0
+North Dakota,38075.0,667.0
+Kansas,20157.0,1552.0
+Missouri,29179.0,1398.0
+Tennessee,47143.0,11836.0
+Kansas,20159.0,3100.0
+Minnesota,27131.0,20780.0
+Utah,49033.0,381.0
+Nebraska,31147.0,2295.0
+Illinois,17159.0,6346.0
+Louisiana,22083.0,9103.0
+Montana,30083.0,3025.0
+North Dakota,38077.0,4823.0
+Ohio,39139.0,39371.0
+South Carolina,45079.0,161623.0
+Wisconsin,55103.0,5019.0
+Georgia,13245.0,60814.0
+North Carolina,37153.0,16515.0
+Virginia,51159.0,2926.0
+Virginia,51760.0,61368.0
+Kansas,20161.0,16490.0
+Puerto Rico,72117.0,4542.0
+Iowa,19159.0,1324.0
+New Mexico,35039.0,13437.0
+Colorado,8103.0,2242.0
+Colorado,8105.0,3647.0
+Puerto Rico,72119.0,14928.0
+Indiana,18137.0,10107.0
+Missouri,29181.0,3200.0
+West Virginia,54085.0,3063.0
+California,6065.0,778836.0
+Tennessee,47145.0,19742.0
+West Virginia,54087.0,4566.0
+Virginia,51161.0,28445.0
+Virginia,51770.0,28420.0
+South Dakota,46109.0,2860.0
+Texas,48393.0,190.0
+Kentucky,21201.0,880.0
+Tennessee,47147.0,26199.0
+Texas,48395.0,4976.0
+North Carolina,37155.0,52415.0
+Minnesota,27133.0,2795.0
+Nebraska,31149.0,194.0
+Wisconsin,55105.0,55670.0
+Illinois,17161.0,42862.0
+Virginia,51163.0,5216.0
+Kentucky,21203.0,6720.0
+Georgia,13247.0,23835.0
+New Hampshire,33015.0,84901.0
+North Carolina,37157.0,27783.0
+Virginia,51165.0,19233.0
+New York,36087.0,119501.0
+Texas,48397.0,31854.0
+Oklahoma,40129.0,1089.0
+Oklahoma,40131.0,31717.0
+North Dakota,38079.0,8094.0
+Kansas,20163.0,1585.0
+Montana,30085.0,4049.0
+New Mexico,35041.0,6246.0
+Michigan,26143.0,5646.0
+Minnesota,27135.0,5074.0
+Montana,30087.0,3118.0
+Ohio,39141.0,25128.0
+Northern Mariana Islands,69100.0,422.0
+Colorado,8107.0,7920.0
+Kentucky,21205.0,9860.0
+North Carolina,37159.0,51814.0
+Texas,48399.0,2670.0
+Indiana,18139.0,6114.0
+Kansas,20165.0,967.0
+Texas,48401.0,12517.0
+Wisconsin,55107.0,4198.0
+Alabama,1113.0,13062.0
+Kansas,20167.0,2157.0
+Kentucky,21207.0,8441.0
+Virginia,51167.0,9557.0
+North Carolina,37161.0,21713.0
+Tennessee,47149.0,117478.0
+Vermont,50021.0,17342.0
+Puerto Rico,72121.0,6713.0
+Louisiana,22085.0,8106.0
+Texas,48403.0,1672.0
+Iowa,19161.0,2898.0
+California,6067.0,411261.0
+Maine,23023.0,7072.0
+Michigan,26145.0,62400.0
+Colorado,8109.0,1534.0
+Northern Mariana Islands,69110.0,12574.0
+New Jersey,34033.0,18650.0
+Virginia,51775.0,7314.0
+Puerto Rico,72123.0,9051.0
+Arkansas,5125.0,37232.0
+Illinois,17165.0,10402.0
+Kansas,20169.0,17156.0
+Missouri,29195.0,7237.0
+Nebraska,31151.0,4472.0
+Utah,49035.0,411491.0
+South Carolina,45081.0,4687.0
+North Carolina,37163.0,23630.0
+Texas,48405.0,1167.0
+California,6069.0,18852.0
+California,6071.0,746804.0
+California,6073.0,1070803.0
+California,6075.0,211038.0
+Puerto Rico,72125.0,9492.0
+Texas,48407.0,6547.0
+California,6077.0,227902.0
+Colorado,8111.0,316.0
+New Mexico,35045.0,52711.0
+Utah,49037.0,5176.0
+Washington,53055.0,2015.0
+Puerto Rico,72127.0,106071.0
+Puerto Rico,72129.0,12303.0
+California,6079.0,74849.0
+California,6081.0,195474.0
+Colorado,8113.0,2718.0
+New Mexico,35047.0,7688.0
+Texas,48409.0,16651.0
+Texas,48411.0,1523.0
+Puerto Rico,72131.0,14587.0
+South Dakota,46111.0,679.0
+Montana,30089.0,2449.0
+New Mexico,35043.0,45273.0
+Ohio,39143.0,17735.0
+Illinois,17167.0,76920.0
+Michigan,26151.0,10653.0
+Utah,49039.0,9031.0
+California,6083.0,120319.0
+California,6085.0,499663.0
+Arizona,4023.0,19662.0
+California,6087.0,72744.0
+New Mexico,35049.0,40709.0
+Puerto Rico,72133.0,6965.0
+Florida,12113.0,59197.0
+Florida,12115.0,121030.0
+New York,36091.0,62192.0
+North Dakota,38081.0,1313.0
+Nebraska,31153.0,59143.0
+Wisconsin,55111.0,21071.0
+Nebraska,31155.0,5614.0
+Wisconsin,55113.0,6081.0
+New York,36093.0,44188.0
+Texas,48413.0,673.0
+Georgia,13249.0,1422.0
+New York,36095.0,6658.0
+Michigan,26153.0,2240.0
+Illinois,17169.0,2480.0
+Missouri,29197.0,895.0
+New York,36097.0,4374.0
+Pennsylvania,42107.0,42814.0
+Ohio,39145.0,27974.0
+Missouri,29199.0,841.0
+North Carolina,37165.0,12945.0
+Arkansas,5127.0,2863.0
+Illinois,17171.0,1579.0
+Indiana,18143.0,9481.0
+Iowa,19163.0,49206.0
+Kansas,20171.0,1583.0
+Kentucky,21209.0,22956.0
+Minnesota,27139.0,48136.0
+Mississippi,28123.0,7898.0
+Missouri,29201.0,13915.0
+Tennessee,47151.0,12325.0
+Virginia,51169.0,7722.0
+Nebraska,31157.0,11564.0
+Georgia,13251.0,3191.0
+Texas,48415.0,5995.0
+Arkansas,5129.0,2575.0
+Arkansas,5131.0,39367.0
+Colorado,8115.0,586.0
+Kansas,20173.0,171780.0
+Florida,12117.0,132005.0
+Georgia,13253.0,2539.0
+Oklahoma,40133.0,7807.0
+New York,36099.0,7813.0
+Ohio,39147.0,15835.0
+Tennessee,47153.0,5179.0
+Oklahoma,40135.0,13014.0
+Arkansas,5133.0,7125.0
+Tennessee,47155.0,36763.0
+Utah,49041.0,6066.0
+Kansas,20175.0,8520.0
+Nebraska,31159.0,3769.0
+Texas,48417.0,1119.0
+Missouri,29203.0,1921.0
+Mississippi,28125.0,1169.0
+Arkansas,5135.0,5718.0
+California,6089.0,44886.0
+Wisconsin,55115.0,14410.0
+Kansas,20177.0,61020.0
+Wisconsin,55117.0,39649.0
+Alabama,1117.0,78343.0
+Illinois,17173.0,7624.0
+Indiana,18145.0,17180.0
+Iowa,19165.0,3187.0
+Kentucky,21211.0,16988.0
+Missouri,29205.0,2081.0
+Ohio,39149.0,13373.0
+Tennessee,47157.0,299438.0
+Texas,48419.0,5374.0
+Virginia,51171.0,14097.0
+Minnesota,27141.0,32037.0
+Kansas,20179.0,904.0
+Montana,30091.0,932.0
+Nebraska,31161.0,1160.0
+North Dakota,38083.0,347.0
+Wyoming,56033.0,10043.0
+Kansas,20181.0,1815.0
+Nebraska,31163.0,691.0
+Oregon,41055.0,390.0
+Texas,48421.0,436.0
+Michigan,26155.0,22305.0
+Idaho,16079.0,3123.0
+Minnesota,27143.0,4267.0
+California,6091.0,374.0
+New Mexico,35051.0,2502.0
+Montana,30093.0,9993.0
+Kentucky,21213.0,7567.0
+Mississippi,28127.0,8693.0
+Iowa,19167.0,9031.0
+Nebraska,31165.0,82.0
+North Dakota,38085.0,1676.0
+California,6093.0,8925.0
+Alaska,2220.0,3505.0
+Washington,53057.0,28977.0
+Alaska,2230.0,664.0
+Washington,53059.0,1807.0
+North Dakota,38087.0,74.0
+Kansas,20183.0,842.0
+Mississippi,28129.0,5083.0
+Tennessee,47159.0,7354.0
+Texas,48423.0,49633.0
+Virginia,51173.0,12164.0
+Washington,53061.0,206757.0
+Pennsylvania,42109.0,9809.0
+New Mexico,35053.0,4770.0
+California,6095.0,123221.0
+Maine,23025.0,13031.0
+Maryland,24039.0,6200.0
+New Jersey,34035.0,98541.0
+Pennsylvania,42111.0,22367.0
+Texas,48425.0,2212.0
+California,6097.0,120012.0
+Virginia,51175.0,4510.0
+Alaska,2240.0,2479.0
+Georgia,13255.0,19364.0
+South Carolina,45083.0,117645.0
+Indiana,18147.0,6180.0
+Kentucky,21215.0,7113.0
+South Dakota,46115.0,1696.0
+Washington,53063.0,155367.0
+Virginia,51177.0,35467.0
+Louisiana,22087.0,14515.0
+Louisiana,22089.0,17343.0
+Missouri,29183.0,130848.0
+Alabama,1115.0,33383.0
+Illinois,17163.0,88692.0
+Michigan,26147.0,50723.0
+Missouri,29185.0,2619.0
+Wisconsin,55109.0,31064.0
+Virgin Islands,78010.0,12992.0
+Arkansas,5123.0,8569.0
+Missouri,29187.0,23643.0
+Louisiana,22091.0,2278.0
+Louisiana,22093.0,7381.0
+Virgin Islands,78020.0,1054.0
+Louisiana,22095.0,13347.0
+Florida,12109.0,78491.0
+Indiana,18141.0,84967.0
+Michigan,26149.0,16136.0
+Louisiana,22097.0,28002.0
+New York,36089.0,26693.0
+Minnesota,27137.0,60871.0
+Missouri,29189.0,296063.0
+Missouri,29510.0,76588.0
+Florida,12111.0,96059.0
+Louisiana,22099.0,15901.0
+Louisiana,22101.0,15394.0
+Maryland,24037.0,24639.0
+Louisiana,22103.0,91748.0
+Virgin Islands,78030.0,10792.0
+Kansas,20185.0,1403.0
+Virginia,51179.0,42282.0
+California,6099.0,168922.0
+South Dakota,46117.0,737.0
+North Carolina,37167.0,24125.0
+Kansas,20187.0,530.0
+Nebraska,31167.0,760.0
+Illinois,17175.0,1909.0
+North Dakota,38089.0,13844.0
+Ohio,39151.0,98584.0
+Indiana,18149.0,5634.0
+Texas,48427.0,25374.0
+Virginia,51790.0,7889.0
+Missouri,29186.0,4866.0
+Minnesota,27145.0,61811.0
+Minnesota,27147.0,12069.0
+North Dakota,38091.0,439.0
+Georgia,13257.0,7355.0
+Oklahoma,40137.0,13560.0
+Texas,48429.0,2307.0
+Illinois,17177.0,15181.0
+Texas,48431.0,338.0
+Indiana,18151.0,11515.0
+New York,36101.0,25660.0
+Kansas,20189.0,1926.0
+Minnesota,27149.0,3317.0
+Washington,53065.0,10193.0
+Georgia,13259.0,3295.0
+Tennessee,47161.0,3773.0
+Montana,30095.0,1739.0
+Missouri,29207.0,7202.0
+North Carolina,37169.0,15699.0
+Arkansas,5137.0,3711.0
+Mississippi,28131.0,6736.0
+Missouri,29209.0,6968.0
+Texas,48433.0,410.0
+Nevada,32029.0,197.0
+Iowa,19169.0,23399.0
+New Hampshire,33017.0,37264.0
+North Dakota,38093.0,8312.0
+Wyoming,56035.0,2324.0
+Massachusetts,25025.0,268646.0
+New York,36103.0,570676.0
+Virginia,51800.0,24522.0
+Indiana,18153.0,6410.0
+Missouri,29211.0,2049.0
+New Hampshire,33019.0,11927.0
+New York,36105.0,24919.0
+Pennsylvania,42113.0,1393.0
+Tennessee,47163.0,60552.0
+South Dakota,46119.0,269.0
+West Virginia,54089.0,3901.0
+Colorado,8117.0,12081.0
+Ohio,39153.0,144026.0
+Utah,49043.0,16024.0
+Kansas,20191.0,6663.0
+Tennessee,47165.0,65766.0
+Alabama,1119.0,3186.0
+Florida,12119.0,30197.0
+Georgia,13261.0,8773.0
+South Carolina,45085.0,35745.0
+Mississippi,28133.0,7119.0
+North Carolina,37171.0,28754.0
+Virginia,51181.0,1438.0
+Pennsylvania,42115.0,10176.0
+Delaware,10005.0,78655.0
+New Jersey,34037.0,45705.0
+Virginia,51183.0,2931.0
+California,6101.0,28375.0
+Texas,48435.0,993.0
+Florida,12121.0,15999.0
+North Carolina,37173.0,5043.0
+Montana,30097.0,916.0
+Wyoming,56037.0,12519.0
+Minnesota,27151.0,2729.0
+Texas,48437.0,2630.0
+Indiana,18155.0,2664.0
+Georgia,13263.0,1389.0
+Maryland,24041.0,7264.0
+Georgia,13265.0,337.0
+Alabama,1121.0,28710.0
+Mississippi,28135.0,3891.0
+Alabama,1123.0,14643.0
+Iowa,19171.0,4697.0
+Missouri,29213.0,16120.0
+Louisiana,22105.0,45330.0
+New Mexico,35055.0,7296.0
+Texas,48439.0,689658.0
+Mississippi,28137.0,8716.0
+Georgia,13267.0,5740.0
+Florida,12123.0,8111.0
+Georgia,13269.0,2449.0
+Iowa,19173.0,1540.0
+Kentucky,21217.0,11912.0
+Texas,48441.0,44551.0
+West Virginia,54091.0,5996.0
+Wisconsin,55119.0,5827.0
+Illinois,17179.0,46287.0
+Virginia,51185.0,14086.0
+California,6103.0,17924.0
+Georgia,13271.0,3549.0
+Colorado,8119.0,5929.0
+Louisiana,22107.0,1338.0
+Louisiana,22109.0,39104.0
+Georgia,13273.0,2555.0
+Texas,48443.0,155.0
+Texas,48445.0,2310.0
+Idaho,16081.0,2939.0
+Montana,30099.0,1544.0
+Wyoming,56039.0,12150.0
+Missouri,29215.0,5689.0
+Oklahoma,40139.0,7037.0
+Nebraska,31169.0,1305.0
+Georgia,13275.0,14129.0
+Kansas,20193.0,3036.0
+Nebraska,31171.0,113.0
+Texas,48447.0,299.0
+Nebraska,31173.0,2200.0
+Washington,53067.0,63822.0
+Georgia,13277.0,13887.0
+Oregon,41057.0,5041.0
+Oklahoma,40141.0,1810.0
+Northern Mariana Islands,69120.0,399.0
+New York,36107.0,14246.0
+Pennsylvania,42117.0,10264.0
+Mississippi,28139.0,8954.0
+Indiana,18157.0,61036.0
+Indiana,18159.0,4001.0
+Tennessee,47167.0,22116.0
+Mississippi,28141.0,7747.0
+Texas,48449.0,10138.0
+Puerto Rico,72135.0,22857.0
+Puerto Rico,72137.0,25686.0
+Kentucky,21219.0,3582.0
+Minnesota,27153.0,8516.0
+South Dakota,46121.0,3949.0
+Connecticut,9013.0,27981.0
+Texas,48451.0,42784.0
+New York,36109.0,26972.0
+Utah,49045.0,25115.0
+Montana,30101.0,1414.0
+Georgia,13279.0,8023.0
+New Mexico,35057.0,3791.0
+North Dakota,38095.0,760.0
+Georgia,13281.0,3104.0
+North Dakota,38097.0,2498.0
+North Carolina,37175.0,8392.0
+Minnesota,27155.0,1051.0
+Texas,48453.0,321234.0
+Montana,30103.0,148.0
+Kansas,20195.0,948.0
+Wisconsin,55121.0,10001.0
+Georgia,13283.0,1888.0
+Kentucky,21221.0,5162.0
+Kentucky,21223.0,2769.0
+California,6105.0,1983.0
+Texas,48455.0,3270.0
+South Dakota,46123.0,1717.0
+Georgia,13285.0,18834.0
+Tennessee,47169.0,4750.0
+Puerto Rico,72139.0,20137.0
+Ohio,39155.0,52974.0
+West Virginia,54093.0,2457.0
+California,6107.0,169530.0
+Oklahoma,40143.0,214151.0
+Mississippi,28143.0,3067.0
+California,6109.0,18160.0
+Georgia,13287.0,3203.0
+South Dakota,46125.0,2300.0
+Alabama,1125.0,71175.0
+Ohio,39157.0,25663.0
+Michigan,26157.0,15781.0
+Georgia,13289.0,1859.0
+Idaho,16083.0,28888.0
+Texas,48457.0,5555.0
+West Virginia,54095.0,2749.0
+North Carolina,37177.0,1229.0
+Wyoming,56041.0,6416.0
+Utah,49047.0,9559.0
+New York,36111.0,43691.0
+Oregon,41059.0,26615.0
+Tennessee,47171.0,6836.0
+Arkansas,5139.0,11312.0
+Florida,12125.0,5130.0
+Georgia,13291.0,6176.0
+Illinois,17181.0,6892.0
+Indiana,18161.0,2348.0
+Iowa,19175.0,3193.0
+Kentucky,21225.0,5556.0
+Louisiana,22111.0,8865.0
+Mississippi,28145.0,11680.0
+New Jersey,34039.0,196951.0
+New Mexico,35059.0,1158.0
+North Carolina,37179.0,79598.0
+Ohio,39159.0,20031.0
+Oregon,41061.0,5859.0
+Pennsylvania,42119.0,13597.0
+South Carolina,45087.0,9994.0
+South Dakota,46127.0,4376.0
+Tennessee,47173.0,7024.0
+Alaska,,1822.0
+American Samoa,,8309.0
+Arkansas,,33674.0
+Colorado,,0.0
+Connecticut,,3270.0
+Delaware,,1087.0
+Florida,,280.0
+Georgia,,12098.0
+Guam,,62077.0
+Hawaii,,0.0
+Illinois,,0.0
+Indiana,,1.0
+Iowa,,1.0
+Kentucky,,2505.0
+Louisiana,,1243.0
+Maine,,18.0
+Massachusetts,,202658.0
+Michigan,,16486.0
+Minnesota,,864.0
+Nevada,,11551.0
+New Hampshire,,2352.0
+New Jersey,,1644.0
+New Mexico,,529.0
+North Dakota,,0.0
+Oklahoma,,735.0
+Oregon,,4.0
+Puerto Rico,,27112.0
+Rhode Island,,30079.0
+Tennessee,,38679.0
+Texas,,10766.0
+Utah,,5953.0
+Vermont,,3208.0
+Virginia,,894.0
+Washington,,1906.0
+Texas,48459.0,8941.0
+West Virginia,54097.0,9027.0
+Georgia,13293.0,9672.0
+Texas,48461.0,991.0
+Utah,49049.0,226568.0
+Puerto Rico,72141.0,8575.0
+Texas,48463.0,11377.0
+Texas,48465.0,15350.0
+Alaska,2261.0,3712.0
+New Mexico,35061.0,24644.0
+Idaho,16085.0,3147.0
+Montana,30105.0,2172.0
+Nebraska,31175.0,878.0
+Arkansas,5141.0,4348.0
+Iowa,19177.0,1703.0
+Michigan,26159.0,20897.0
+Tennessee,47175.0,2271.0
+Ohio,39161.0,8203.0
+Texas,48467.0,11481.0
+North Carolina,37181.0,15922.0
+Indiana,18163.0,70909.0
+Puerto Rico,72143.0,12663.0
+Puerto Rico,72145.0,20961.0
+Pennsylvania,42121.0,13914.0
+California,6111.0,239713.0
+Illinois,17183.0,35409.0
+Louisiana,22113.0,19226.0
+Indiana,18165.0,4939.0
+Louisiana,22115.0,11821.0
+Missouri,29217.0,6163.0
+Wisconsin,55123.0,7715.0
+Texas,48469.0,25156.0
+Puerto Rico,72147.0,1891.0
+Indiana,18167.0,35176.0
+Wisconsin,55125.0,6528.0
+Puerto Rico,72149.0,7804.0
+Ohio,39163.0,3714.0
+Virginia,51810.0,116063.0
+Florida,12127.0,150509.0
+Illinois,17185.0,4848.0
+Indiana,18169.0,10478.0
+Minnesota,27157.0,6691.0
+Kansas,20197.0,2000.0
+Minnesota,27159.0,5262.0
+Oklahoma,40145.0,26801.0
+Washington,53069.0,644.0
+North Carolina,37183.0,392474.0
+Florida,12129.0,12199.0
+Maine,23027.0,8117.0
+Alabama,1127.0,24198.0
+Georgia,13295.0,20158.0
+Texas,48471.0,24667.0
+Washington,53071.0,19211.0
+Kansas,20199.0,489.0
+Texas,48473.0,11626.0
+Oregon,41063.0,1590.0
+North Dakota,38099.0,4148.0
+Mississippi,28147.0,4698.0
+Florida,12131.0,19725.0
+Georgia,13297.0,26771.0
+South Dakota,46129.0,1528.0
+Wisconsin,55127.0,33510.0
+Iowa,19179.0,10476.0
+North Dakota,38101.0,24188.0
+Texas,48475.0,3317.0
+Georgia,13299.0,11371.0
+Georgia,13301.0,1296.0
+Illinois,17187.0,5096.0
+Indiana,18171.0,2382.0
+Iowa,19181.0,14557.0
+Kentucky,21227.0,55509.0
+Mississippi,28149.0,12856.0
+Missouri,29219.0,9957.0
+New Jersey,34041.0,32243.0
+New York,36113.0,19149.0
+North Carolina,37185.0,5884.0
+Ohio,39165.0,72871.0
+Pennsylvania,42123.0,9803.0
+Tennessee,47177.0,15871.0
+Virginia,51187.0,11522.0
+Indiana,18173.0,24941.0
+Utah,49051.0,12251.0
+Oregon,41065.0,6720.0
+Minnesota,27161.0,6380.0
+Wyoming,56043.0,2700.0
+Wisconsin,55129.0,5057.0
+Alabama,1129.0,4402.0
+Arkansas,5143.0,81088.0
+Colorado,8121.0,1264.0
+Florida,12133.0,7725.0
+Georgia,13303.0,5150.0
+Idaho,16087.0,2658.0
+Illinois,17189.0,4148.0
+Indiana,18175.0,7192.0
+Iowa,19183.0,6834.0
+Kansas,20201.0,1631.0
+Kentucky,21229.0,5118.0
+Louisiana,22117.0,16336.0
+Maine,23029.0,5788.0
+Maryland,24043.0,41076.0
+Minnesota,27163.0,82914.0
+Mississippi,28151.0,13047.0
+Missouri,29221.0,7097.0
+Nebraska,31177.0,5527.0
+New York,36115.0,16074.0
+North Carolina,37187.0,3916.0
+Ohio,39167.0,15560.0
+Oklahoma,40147.0,15803.0
+Oregon,41067.0,122861.0
+Pennsylvania,42125.0,63829.0
+Rhode Island,44009.0,43177.0
+Tennessee,47179.0,50114.0
+Texas,48477.0,10657.0
+Utah,49053.0,51190.0
+Vermont,50023.0,14329.0
+Virginia,51191.0,18298.0
+Wisconsin,55131.0,47075.0
+Oklahoma,40149.0,3273.0
+Nevada,32031.0,128846.0
+Michigan,26161.0,110789.0
+North Carolina,37189.0,15154.0
+Minnesota,27165.0,3473.0
+Wisconsin,55133.0,140273.0
+Wisconsin,55135.0,16431.0
+Wisconsin,55137.0,7672.0
+Georgia,13305.0,8893.0
+Illinois,17191.0,6623.0
+Indiana,18177.0,23546.0
+Iowa,19185.0,1522.0
+Kentucky,21231.0,8371.0
+Michigan,26163.0,539858.0
+Mississippi,28153.0,6996.0
+Missouri,29223.0,2987.0
+Nebraska,31179.0,2171.0
+New York,36117.0,22235.0
+North Carolina,37191.0,42210.0
+Ohio,39169.0,28715.0
+Pennsylvania,42127.0,13399.0
+Tennessee,47181.0,6894.0
+Utah,49055.0,540.0
+West Virginia,54099.0,11764.0
+Virginia,51820.0,7574.0
+Tennessee,47183.0,11889.0
+Texas,48479.0,107085.0
+Utah,49057.0,86562.0
+Georgia,13307.0,545.0
+Iowa,19187.0,12141.0
+Kentucky,21233.0,4946.0
+Louisiana,22119.0,14587.0
+Mississippi,28155.0,4075.0
+Missouri,29225.0,10362.0
+Nebraska,31181.0,855.0
+West Virginia,54101.0,2873.0
+Colorado,8123.0,106631.0
+Indiana,18179.0,7616.0
+North Dakota,38103.0,1221.0
+Louisiana,22121.0,9713.0
+Louisiana,22123.0,4866.0
+Louisiana,22125.0,3376.0
+New York,36119.0,337272.0
+Pennsylvania,42129.0,99786.0
+Virginia,51193.0,4356.0
+Wyoming,56045.0,1906.0
+West Virginia,54103.0,5518.0
+Michigan,26165.0,8702.0
+Texas,48481.0,11926.0
+Washington,53073.0,49417.0
+Montana,30107.0,462.0
+Georgia,13309.0,1595.0
+Nebraska,31183.0,141.0
+Oregon,41069.0,304.0
+Texas,48483.0,1293.0
+Arkansas,5145.0,27147.0
+Georgia,13311.0,8484.0
+Illinois,17193.0,5495.0
+Indiana,18181.0,8289.0
+Tennessee,47185.0,9901.0
+Nevada,32033.0,1782.0
+Illinois,17195.0,19646.0
+Georgia,13313.0,39350.0
+Indiana,18183.0,11472.0
+Kentucky,21235.0,17204.0
+Washington,53075.0,10142.0
+Montana,30109.0,247.0
+Kansas,20203.0,599.0
+Texas,48485.0,41012.0
+Maryland,24045.0,24952.0
+Texas,48487.0,4171.0
+Alabama,1131.0,3665.0
+Georgia,13315.0,2425.0
+Georgia,13317.0,2629.0
+North Carolina,37193.0,23127.0
+Minnesota,27167.0,1967.0
+Georgia,13319.0,2675.0
+Mississippi,28157.0,1943.0
+Illinois,17197.0,217732.0
+Texas,48489.0,9033.0
+North Dakota,38105.0,12316.0
+Ohio,39171.0,12012.0
+South Carolina,45089.0,10429.0
+Virginia,51830.0,2333.0
+Illinois,17199.0,29147.0
+Tennessee,47187.0,76410.0
+Texas,48491.0,171083.0
+Kansas,20205.0,3458.0
+North Carolina,37195.0,27855.0
+Tennessee,47189.0,51752.0
+Texas,48493.0,12529.0
+Virginia,51840.0,8199.0
+Connecticut,9015.0,31452.0
+Vermont,50025.0,9021.0
+Vermont,50027.0,11841.0
+Texas,48495.0,2209.0
+Louisiana,22127.0,5599.0
+Illinois,17201.0,101232.0
+Iowa,19189.0,3471.0
+Wisconsin,55139.0,64184.0
+Iowa,19191.0,4528.0
+Minnesota,27169.0,16004.0
+Alabama,1133.0,9432.0
+Mississippi,28159.0,6759.0
+West Virginia,54105.0,1770.0
+Texas,48497.0,19548.0
+Virginia,51195.0,14020.0
+Kentucky,21237.0,3588.0
+Ohio,39173.0,38821.0
+Texas,48499.0,8343.0
+West Virginia,54107.0,28199.0
+Wisconsin,55141.0,27176.0
+Iowa,19193.0,33410.0
+Illinois,17203.0,12706.0
+Kentucky,21239.0,9555.0
+Arkansas,5147.0,2276.0
+Oklahoma,40151.0,2735.0
+Kansas,20207.0,1038.0
+Oklahoma,40153.0,6178.0
+Maryland,24047.0,10918.0
+Massachusetts,25027.0,241314.0
+Georgia,13321.0,5554.0
+Iowa,19195.0,2049.0
+Missouri,29227.0,559.0
+Alaska,2275.0,804.0
+Iowa,19197.0,4060.0
+Minnesota,27171.0,42913.0
+Missouri,29229.0,4599.0
+Ohio,39175.0,6709.0
+Kansas,20209.0,54753.0
+New York,36121.0,10053.0
+Pennsylvania,42131.0,6595.0
+West Virginia,54109.0,9776.0
+Virginia,51197.0,9757.0
+Puerto Rico,72151.0,10631.0
+North Carolina,37197.0,15209.0
+Washington,53077.0,84067.0
+Alaska,2998.0,977.0
+Mississippi,28161.0,4835.0
+Oregon,41071.0,22978.0
+North Carolina,37199.0,6361.0
+South Dakota,46135.0,7018.0
+New York,36123.0,4485.0
+Puerto Rico,72153.0,11826.0
+Arizona,4025.0,60489.0
+Mississippi,28163.0,10105.0
+Arkansas,5149.0,7599.0
+Minnesota,27173.0,3170.0
+Montana,30111.0,51540.0
+Texas,48501.0,1262.0
+California,6113.0,55158.0
+Maine,23031.0,52280.0
+Nebraska,31185.0,4741.0
+Pennsylvania,42133.0,148323.0
+South Carolina,45091.0,95780.0
+Virginia,51199.0,13907.0
+Texas,48503.0,4480.0
+California,6115.0,22000.0
+Alaska,2290.0,1774.0
+Arizona,4027.0,71397.0
+Colorado,8125.0,2349.0
+Texas,48505.0,4411.0
+Texas,48507.0,4386.0
+South Dakota,46137.0,720.0
